@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.queues;
+package queues;
 
 public interface PriorityQueue<T extends Comparable<T>> extends Queue<T> {
   

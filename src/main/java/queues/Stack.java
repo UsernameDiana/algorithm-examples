@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.queues;
+package queues;
 
 public interface Stack<T> {
   void push(T item);

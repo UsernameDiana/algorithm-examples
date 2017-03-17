@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.queues;
+package queues;
 
 import java.util.NoSuchElementException;
 

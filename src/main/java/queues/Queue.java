@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.queues;
+package queues;
 
 /**
  * Contract for a Queue abstract data structure.

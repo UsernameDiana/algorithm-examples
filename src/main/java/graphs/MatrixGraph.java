@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.graphs;
+package graphs;
 
 import java.io.PrintStream;
 import java.util.Collection;

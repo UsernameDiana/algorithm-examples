@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.searching;
+package searching;
 
 public class BinarySearchTree<K extends Comparable<K>, V> 
     implements SymbolTable<K, V>{

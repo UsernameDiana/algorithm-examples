@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.searching;
+package searching;
 
 /**
  * An array that grows when filled.

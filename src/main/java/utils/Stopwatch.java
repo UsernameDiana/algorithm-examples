@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.utils;
+package utils;
 
 
 /**

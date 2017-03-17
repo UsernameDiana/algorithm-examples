@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.searching;
+package searching;
 
 public interface SymbolTable<K, V> {
   void put(K key, V value);

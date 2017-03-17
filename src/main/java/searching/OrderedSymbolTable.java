@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.searching;
+package searching;
 
 public interface OrderedSymbolTable <K extends Comparable <K>, V> extends SymbolTable <K,V> {
   K min ();

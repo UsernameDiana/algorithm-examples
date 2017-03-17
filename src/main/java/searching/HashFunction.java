@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.searching;
+package searching;
 
 @FunctionalInterface
 public interface HashFunction<T> {

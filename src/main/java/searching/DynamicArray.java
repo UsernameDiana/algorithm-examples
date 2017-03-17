@@ -1,4 +1,4 @@
-package dk.cphbusiness.algorithm.examples.searching;
+package searching;
 
 /**
  * Dynamic Array is an optimised version of <code>FlexibleArray</code>
