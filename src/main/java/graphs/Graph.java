@@ -7,9 +7,8 @@ import java.util.Collection;
 // GRAPH = VERTEX, EDGE
 // G=(V,E)
 public interface Graph<D, W> {
-
-    void addVertex(D... data);
-
+    
+    void addVertex(D... data); // ... can pass more than one params
     void addEdge(W weight, Vertex<D, W> tail, Vertex<D, W> head, boolean directed);
 
     default void addEdge(W weight, D tailData, D headData, boolean directed) {
@@ -17,9 +16,7 @@ public interface Graph<D, W> {
     }
 
     Vertex<D, W> vertexOf(D data);
-
     Collection<Vertex<D, W>> getVertices();
-
     Collection<Edge<D, W>> getEdges();
 
     default void print(PrintStream out) {
@@ -27,16 +24,12 @@ public interface Graph<D, W> {
     }
 
     interface Vertex<D, W> {
-
         D getData();
-
         Collection<Edge<D, W>> getAdjacentEdges();
     }
 
     interface Edge<D, W> {
-
         W getWeight();
-
         Vertex<D, W> getHeadVertex();
     }
 
