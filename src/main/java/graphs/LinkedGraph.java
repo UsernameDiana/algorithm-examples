@@ -12,6 +12,7 @@ public class LinkedGraph<D, W> implements Graph<D, W> {
     @Override
     public void addEdge(W weight, Vertex<D, W> tail, Vertex<D, W> head, boolean directed) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    //adj[i].add(j);
     }
 
     @Override
