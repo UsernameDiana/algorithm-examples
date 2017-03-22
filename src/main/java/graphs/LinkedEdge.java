@@ -11,11 +11,11 @@ public class LinkedEdge<D,W> implements Edge<D,W> {
 
     @Override
     public W getWeight() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        return weight;
     }
 
     @Override
     public Vertex<D, W> getHeadVertex() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        return null;
     }
 }
