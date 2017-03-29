@@ -1,4 +1,4 @@
-package dk.kalhauge.matchers;
+package matchers;
 
 import java.util.function.Predicate;
 import org.hamcrest.Description;

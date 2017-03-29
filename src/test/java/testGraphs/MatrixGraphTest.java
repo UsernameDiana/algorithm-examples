@@ -1,5 +1,7 @@
-package dk.cphbusiness.algorithm.examples.graphs;
+package testGraphs;
 
+import graphs.Graph;
+import graphs.MatrixGraph;
 import static org.hamcrest.CoreMatchers.is;
 import org.junit.Test;
 import static org.junit.Assert.*;
