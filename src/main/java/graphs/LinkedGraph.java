@@ -7,20 +7,19 @@ public class LinkedGraph<D, W> implements Graph<D, W> {
     private int myVertices;
     private int myEdges;
 
-    
     @Override
     public void addVertex(D... data) {
-        
+
     }
 
     @Override
     public void addEdge(W weight, Vertex<D, W> tail, Vertex<D, W> head, boolean directed) {
-    
+
     }
 
     @Override
     public Vertex<D, W> vertexOf(D data) {
-    return null;
+        return null;
     }
 
     @Override

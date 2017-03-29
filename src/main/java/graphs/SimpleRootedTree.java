@@ -50,7 +50,7 @@ public class SimpleRootedTree<D,W> implements RootedTree<D, W>{
     return edges;
     }
 
-  @Override
+    @Override
   public Collection<Edge<D, W>> getEdgesFrom(Vertex<D, W> vertex) {
     // This piece of code simply filters away edges
     // that is not in the edges set.
