@@ -1,15 +1,23 @@
 package graphs;
 
 import java.util.Collection;
+import java.util.HashMap;
+import java.util.Map;
 
 public class LinkedGraph<D, W> implements Graph<D, W> {
 
     private int myVertices;
     private int myEdges;
+    private Map vertexMap = new HashMap();
+
+    public LinkedGraph(int myVertices, int myEdges) {
+        this.myVertices = myVertices;
+        this.myEdges = myEdges;
+    }
 
     @Override
     public void addVertex(D... data) {
-
+     
     }
 
     @Override
@@ -19,7 +27,12 @@ public class LinkedGraph<D, W> implements Graph<D, W> {
 
     @Override
     public Vertex<D, W> vertexOf(D data) {
-        return null;
+        LinkedVertex v = (LinkedVertex) vertexMap.get(data);
+        if (v == null) {
+            v = new LinkedVertex();
+            vertexMap.put(data, v);
+        }
+        return v;
     }
 
     @Override
@@ -34,7 +47,7 @@ public class LinkedGraph<D, W> implements Graph<D, W> {
 
     @Override
     public Collection<Edge<D, W>> getEdgesFrom(Vertex<D, W> vertex) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        return null;
     }
 
 }

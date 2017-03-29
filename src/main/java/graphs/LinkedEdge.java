@@ -11,7 +11,7 @@ public class LinkedEdge<D,W> implements Edge<D,W> {
 
     @Override
     public W getWeight() {
-        return weight;
+        return this.weight;
     }
 
     @Override
