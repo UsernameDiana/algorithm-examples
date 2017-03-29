@@ -33,4 +33,9 @@ public class LinkedGraph<D, W> implements Graph<D, W> {
         return null;
     }
 
+    @Override
+    public Collection<Edge<D, W>> getEdgesFrom(Vertex<D, W> vertex) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 }
