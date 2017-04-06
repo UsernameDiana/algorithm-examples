@@ -16,6 +16,6 @@ public class LinkedEdge<D,W> implements Edge<D,W> {
 
     @Override
     public Vertex<D, W> getHeadVertex() {
-        return null;
+        return headVertex;
     }
 }
