@@ -60,11 +60,6 @@ public class SimpleRootedTree<D,W> implements RootedTree<D, W>{
         .collect(Collectors.toSet());
     }
 
-  /**
-   * This method will result in a stack overflow if contract is not kept and 
-   * the tree contains cycles.
-   * @param out The stream to print on
-   */
   @Override
   public void print(PrintStream out) {
     print(out, "", root);
