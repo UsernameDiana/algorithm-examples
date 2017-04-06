@@ -156,7 +156,6 @@ public class MatrixGraph<D, W> implements Graph<D, W> {
     }
 
     private class MatrixEdge implements Edge<D, W> {
-
         private final int i;
         private final int j;
 
