@@ -59,12 +59,61 @@ public class MatrixGraph<D, W> implements Graph<D, W> {
         return null;
     }
 
+    private class MatrixVertex implements Vertex<D, W> {
+
+        private final int i;
+
+        public MatrixVertex(int i) {
+            this.i = i;
+        }
+
+        @Override
+        public D getData() {
+            return data[i];
+        }
+
+        @Override
+        public Collection<Edge<D, W>> getAdjacentEdges() {
+            Collection<Edge<D, W>> result = new HashSet<>();
+            for (int j = 0; j < data.length; j++) {
+                if (weights[i][j] == null) {
+                    continue;
+                }
+                result.add(new MatrixEdge(i, j));
+            }
+            return result;
+        }
+
+    }
+
+    private class MatrixEdge implements Edge<D, W> {
+
+        private final int i;
+        private final int j;
+
+        public MatrixEdge(int i, int j) {
+            this.i = i;
+            this.j = j;
+        }
+
+        @Override
+        public W getWeight() {
+            return weights[i][j];
+        }
+
+        @Override
+        public Vertex<D, W> getHeadVertex() {
+            return new MatrixVertex(j);
+        }
+
+    }
+
     @Override
-    public void addEdge(W weight, Vertex<D, W> tail, Vertex<D, W> head, boolean undirected) {
+    public void addEdge(W weight, Vertex<D, W> tail, Vertex<D, W> head, boolean directed) {
         MatrixVertex t = (MatrixVertex) tail;
         MatrixVertex h = (MatrixVertex) head;
         weights[t.i][h.i] = weight;
-        if (undirected) {
+        if (directed) {
             weights[h.i][t.i] = weight;
         }
     }
@@ -90,112 +139,6 @@ public class MatrixGraph<D, W> implements Graph<D, W> {
             }
         }
         return result;
-    }
-
-    @Override
-    public Collection<Edge<D, W>> getEdgesFrom(Vertex<D, W> vertex) {
-        int i = ((MatrixVertex) vertex).i;
-        // Code moved from MatrixVertex.getAdjacentEdges()
-        Collection<Edge<D, W>> result = new HashSet<>();
-        for (int j = 0; j < data.length; j++) {
-            if (weights[i][j] == null) {
-                continue;
-            }
-            result.add(new MatrixEdge(i, j));
-        }
-        return result;
-    }
-
-    private class MatrixVertex implements Vertex<D, W> {
-
-        private final int i;
-
-        public MatrixVertex(int i) {
-            this.i = i;
-        }
-
-        @Override
-        public D getData() {
-            return data[i];
-        }
-
-        @Override
-        public Collection<Edge<D, W>> getAdjacentEdges() {
-// DONE: Code moved to MatrixGraph class
-// -------------------------------------
-//      Collection<Edge<D,W>> result = new HashSet<>();
-//      for (int j = 0; j < data.length; j++) {
-//        if (weights[i][j] == null) continue;
-//        result.add(new MatrixEdge(i, j));
-//        }
-//      return result;
-            return getEdgesFrom(this);
-        }
-
-        @Override
-        public String toString() {
-            return "[" + i + "] " + getData();
-        }
-
-        @Override
-        public boolean equals(Object other) {
-            if (other == null) {
-                return false;
-            }
-            if (!(other instanceof MatrixGraph.MatrixVertex)) {
-                return false;
-            }
-            return i == ((MatrixVertex) other).i;
-        }
-
-        @Override
-        public int hashCode() {
-            return toString().hashCode();
-        }
-
-    }
-
-    private class MatrixEdge implements Edge<D, W> {
-        private final int i;
-        private final int j;
-
-        public MatrixEdge(int i, int j) {
-            this.i = i;
-            this.j = j;
-        }
-
-        @Override
-        public W getWeight() {
-            return weights[i][j];
-        }
-
-        @Override
-        public Vertex<D, W> getHeadVertex() {
-            return new MatrixVertex(j);
-        }
-
-        @Override
-        public String toString() {
-            return "[" + i + "] " + data[i] + " --(" + weights[i][j] + ")-> [" + j + "] " + data[j];
-        }
-
-        @Override
-        public boolean equals(Object obj) {
-            if (obj == null) {
-                return false;
-            }
-            if (!(obj instanceof MatrixGraph.MatrixEdge)) {
-                return false;
-            }
-            MatrixEdge other = (MatrixEdge) obj;
-            return i == other.i && j == other.j;
-        }
-
-        @Override
-        public int hashCode() {
-            return toString().hashCode();
-        }
-
     }
 
 }

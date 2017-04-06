@@ -10,10 +10,10 @@ public interface Graph<D, W> {
 
     void addVertex(D... data);
 
-    void addEdge(W weight, Vertex<D, W> tail, Vertex<D, W> head, boolean undirected);
+    void addEdge(W weight, Vertex<D, W> tail, Vertex<D, W> head, boolean directed);
 
-    default void addEdge(W weight, D tailData, D headData, boolean undirected) {
-        addEdge(weight, vertexOf(tailData), vertexOf(headData), undirected);
+    default void addEdge(W weight, D tailData, D headData, boolean directed) {
+        addEdge(weight, vertexOf(tailData), vertexOf(headData), directed);
     }
 
     Vertex<D, W> vertexOf(D data);
@@ -21,9 +21,6 @@ public interface Graph<D, W> {
     Collection<Vertex<D, W>> getVertices();
 
     Collection<Edge<D, W>> getEdges();
-
-    // Implement this method instead of Vertex.getAdjacentEdges()
-    Collection<Edge<D, W>> getEdgesFrom(Vertex<D, W> vertex);
 
     default void print(PrintStream out) {
         out.println(toString());
@@ -33,8 +30,6 @@ public interface Graph<D, W> {
 
         D getData();
 
-        // Implement this method as a conveinience method
-        // using the graps getEdgesFrom(Vertex vertex)
         Collection<Edge<D, W>> getAdjacentEdges();
     }
 

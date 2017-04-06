@@ -17,7 +17,7 @@ public class LinkedGraph<D, W> implements Graph<D, W> {
 
     @Override
     public void addVertex(D... data) {
-     
+     Vertex v;
     }
 
     @Override
@@ -45,7 +45,6 @@ public class LinkedGraph<D, W> implements Graph<D, W> {
         return null;
     }
 
-    @Override
     public Collection<Edge<D, W>> getEdgesFrom(Vertex<D, W> vertex) {
         return null;
     }

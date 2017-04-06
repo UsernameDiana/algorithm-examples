@@ -1,4 +1,5 @@
 package graphs;
+
 import java.io.PrintStream;
 import java.util.Collection;
 import java.util.HashSet;
@@ -50,12 +51,11 @@ public class SimpleRootedTree<D,W> implements RootedTree<D, W>{
     return edges;
     }
 
-    @Override
   public Collection<Edge<D, W>> getEdgesFrom(Vertex<D, W> vertex) {
     // This piece of code simply filters away edges
     // that is not in the edges set.
     // Unfortunately Java has to convert to stream, and back to set.
-    return graph.getEdgesFrom(vertex).stream()
+    return graph.getEdges().stream()
         .filter(e -> edges.contains(e))
         .collect(Collectors.toSet());
     }
