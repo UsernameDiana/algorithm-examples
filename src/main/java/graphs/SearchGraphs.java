@@ -9,7 +9,7 @@ import queues.Queue;
 /**
  * Utility class for graph related functions.
  */
-public class Graphs {
+public class SearchGraphs {
   
   public static <D,W> RootedTree<D,W> depthFirst(Graph<D,W> graph, Vertex<D,W> root) {
     Set<Vertex<D,W>> marked = new HashSet<>();

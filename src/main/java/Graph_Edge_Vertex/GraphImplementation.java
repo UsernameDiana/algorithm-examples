@@ -3,7 +3,7 @@
 // This is an undirected, simple graph. 
 // In this graph, we have edges that relate two vertices. 
 // There is at most one edge per pair of vertices. So the edge set is: E = { (i, j) : i, j \in V, i != j }.
-package KH_G;
+package Graph_Edge_Vertex;
 
 
 public class GraphImplementation 

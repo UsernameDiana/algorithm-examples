@@ -1,4 +1,4 @@
-package KH_G;
+package Graph_Edge_Vertex;
 
 /**
  *

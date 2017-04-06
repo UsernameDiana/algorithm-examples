@@ -16,7 +16,7 @@ public class LinkedVertex<D,W> implements Vertex<D,W> {
     @Override
     public Collection<Edge<D, W>> getAdjacentEdges() {
     // returns Collection with the adjacent Edges
-        return null;
+        return edges;
     }
     
 }

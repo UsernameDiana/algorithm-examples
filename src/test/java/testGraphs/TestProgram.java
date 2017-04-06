@@ -1,7 +1,7 @@
 package testGraphs;
 
 import graphs.Graph;
-import graphs.Graphs;
+import graphs.SearchGraphs;
 import graphs.MatrixGraph;
 import graphs.RootedTree;
 
@@ -47,7 +47,7 @@ public class TestProgram {
 
         System.out.println("=====================");
 
-        RootedTree<String, Integer> dft = Graphs.depthFirst(friends, friends.vertexOf("Jack"));
+        RootedTree<String, Integer> dft = SearchGraphs.depthFirst(friends, friends.vertexOf("Jack"));
 
         dft.print(System.out);
 
