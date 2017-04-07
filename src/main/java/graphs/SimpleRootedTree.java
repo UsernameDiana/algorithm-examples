@@ -28,13 +28,13 @@ public class SimpleRootedTree<D,W> implements RootedTree<D, W>{
 
   @Override
   public void addVertex(D... data) {
-    throw new UnsupportedOperationException("You can't modify the underlying graph");
-    }
+    
+  }
 
   @Override
   public void addEdge(W weight, Vertex<D, W> tail, Vertex<D, W> head, boolean undirected) {
-    throw new UnsupportedOperationException("You can't modify the underlying graph");
-    }
+    
+  }
 
   @Override
   public Vertex<D, W> vertexOf(D data) {
