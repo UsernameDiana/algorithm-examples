@@ -1,0 +1,1363 @@
+CODE;NAME;CITY;COUNTRY;LATITUDE;LONGITUDE
+GKA;Goroka Airport;Goroka;Papua New Guinea;-6.081689834590001;145.391998291
+MAG;Madang Airport;Madang;Papua New Guinea;-5.20707988739;145.789001465
+HGU;Mount Hagen Kagamuga Airport;Mount Hagen;Papua New Guinea;-5.826789855957031;144.29600524902344
+LAE;Nadzab Airport;Nadzab;Papua New Guinea;-6.569803;146.725977
+POM;Port Moresby Jacksons International Airport;Port Moresby;Papua New Guinea;-9.443380355834961;147.22000122070312
+WWK;Wewak International Airport;Wewak;Papua New Guinea;-3.58383011818;143.669006348
+UAK;Narsarsuaq Airport;Narssarssuaq;Greenland;61.1604995728;-45.4259986877
+GOH;Godthaab / Nuuk Airport;Godthaab;Greenland;64.19090271;-51.6781005859
+SFJ;Kangerlussuaq Airport;Sondrestrom;Greenland;67.0122218992;-50.7116031647
+THU;Thule Air Base;Thule;Greenland;76.5311965942;-68.7032012939
+AEY;Akureyri Airport;Akureyri;Iceland;65.66000366210938;-18.07270050048828
+EGS;Egilsstaðir Airport;Egilsstadir;Iceland;65.2833023071289;-14.401399612426758
+HFN;Hornafjörður Airport;Hofn;Iceland;64.295601;-15.2272
+HZK;Húsavík Airport;Husavik;Iceland;65.952301;-17.426001
+IFJ;Ísafjörður Airport;Isafjordur;Iceland;66.05809783935547;-23.135299682617188
+KEF;Keflavik International Airport;Keflavik;Iceland;63.985000610352;-22.605600357056
+PFJ;Patreksfjörður Airport;Patreksfjordur;Iceland;65.555801;-23.965
+RKV;Reykjavik Airport;Reykjavik;Iceland;64.1299972534;-21.9405994415
+SIJ;Siglufjörður Airport;Siglufjordur;Iceland;66.133301;-18.9167
+VEY;Vestmannaeyjar Airport;Vestmannaeyjar;Iceland;63.42430114746094;-20.278900146484375
+YAM;Sault Ste Marie Airport;Sault Sainte Marie;Canada;46.48500061035156;-84.5093994140625
+YAV;Winnipeg / St. Andrews Airport;Winnipeg;Canada;50.0564002991;-97.03250122070001
+YAW;Halifax / CFB Shearwater Heliport;Halifax;Canada;44.6397018433;-63.499401092499994
+YAY;St. Anthony Airport;St. Anthony;Canada;51.3918991089;-56.083099365200006
+YAZ;Tofino / Long Beach Airport;Tofino;Canada;49.079833;-125.775583
+YBB;Kugaaruk Airport;Pelly Bay;Canada;68.534401;-89.808098
+YBC;Baie Comeau Airport;Baie Comeau;Canada;49.13249969482422;-68.20439910888672
+YBG;CFB Bagotville;Bagotville;Canada;48.33060073852539;-70.99639892578125
+YBK;Baker Lake Airport;Baker Lake;Canada;64.29889678960001;-96.077796936
+YBL;Campbell River Airport;Campbell River;Canada;49.950801849365234;-125.27100372314453
+YBR;Brandon Municipal Airport;Brandon;Canada;49.91;-99.951897
+YCB;Cambridge Bay Airport;Cambridge Bay;Canada;69.1081008911;-105.138000488
+YCD;Nanaimo Airport;Nanaimo;Canada;49.054970224899996;-123.869862556
+YCG;Castlegar/West Kootenay Regional Airport;Castlegar;Canada;49.2963981628;-117.632003784
+YCH;Miramichi Airport;Chatham;Canada;47.007801;-65.449203
+YCL;Charlo Airport;Charlo;Canada;47.990799;-66.330299
+YCO;Kugluktuk Airport;Coppermine;Canada;67.81670379639999;-115.143997192
+YCT;Coronation Airport;Coronation;Canada;52.0750007629;-111.444999695
+YCW;Chilliwack Airport;Chilliwack;Canada;49.1528015137;-121.939002991
+YCY;Clyde River Airport;Clyde River;Canada;70.4860992432;-68.5167007446
+YZS;Coral Harbour Airport;Coral Harbour;Canada;64.1932983398;-83.3593978882
+YDA;Dawson City Airport;Dawson;Canada;64.04309844970703;-139.1280059814453
+YDB;Burwash Airport;Burwash;Canada;61.37110137939453;-139.04100036621094
+YDC;Princeton Airport;Princeton;Canada;49.4681015015;-120.511001587
+YDF;Deer Lake Airport;Deer Lake;Canada;49.21080017089844;-57.39139938354492
+YDL;Dease Lake Airport;Dease Lake;Canada;58.4221992493;-130.031997681
+YDN;Dauphin Barker Airport;Dauphin;Canada;51.100799560546875;-100.052001953125
+YDQ;Dawson Creek Airport;Dawson Creek;Canada;55.7422981262207;-120.18299865722656
+YEG;Edmonton International Airport;Edmonton;Canada;53.309700012200004;-113.580001831
+YEK;Arviat Airport;Eskimo Point;Canada;61.0942001343;-94.07080078119999
+YEN;Estevan Airport;Estevan;Canada;49.2103004456;-102.966003418
+YET;Edson Airport;Edson;Canada;53.578899383499994;-116.464996338
+YEU;Eureka Airport;Eureka;Canada;79.9946975708;-85.814201355
+YEV;Inuvik Mike Zubko Airport;Inuvik;Canada;68.30419921880001;-133.483001709
+YFB;Iqaluit Airport;Iqaluit;Canada;63.756401062;-68.5558013916
+YFC;Fredericton Airport;Fredericton;Canada;45.868900299072266;-66.53720092773438
+YFO;Flin Flon Airport;Flin Flon;Canada;54.6781005859375;-101.68199920654297
+YFR;Fort Resolution Airport;Fort Resolution;Canada;61.1808013916;-113.690002441
+YFS;Fort Simpson Airport;Fort Simpson;Canada;61.76020050048828;-121.23699951171875
+YGK;Kingston Norman Rogers Airport;Kingston;Canada;44.22529983520508;-76.5969009399414
+YGL;La Grande Rivière Airport;La Grande Riviere;Canada;53.625301361083984;-77.7042007446289
+YGP;Gaspé (Michel-Pouliot) Airport;Gaspe;Canada;48.7752990723;-64.4785995483
+YGQ;Geraldton Greenstone Regional Airport;Geraldton;Canada;49.77830123901367;-86.93939971923828
+YGR;Îles-de-la-Madeleine Airport;Iles De La Madeleine;Canada;47.42470169067383;-61.778099060058594
+YHB;Hudson Bay Airport;Hudson Bay;Canada;52.8166999817;-102.310997009
+YHD;Dryden Regional Airport;Dryden;Canada;49.83169937133789;-92.74420166015625
+YHI;Ulukhaktok Holman Airport;Holman Island;Canada;70.76280212402344;-117.80599975585938
+YHK;Gjoa Haven Airport;Gjoa Haven;Canada;68.635597229;-95.84970092770001
+YHM;John C. Munro Hamilton International Airport;Hamilton;Canada;43.173599243199995;-79.93499755859999
+YHU;Montréal / Saint-Hubert Airport;Montreal;Canada;45.5175018311;-73.4169006348
+YHY;Hay River / Merlyn Carter Airport;Hay River;Canada;60.8396987915;-115.782997131
+YHZ;Halifax / Stanfield International Airport;Halifax;Canada;44.8807983398;-63.5085983276
+YIB;Atikokan Municipal Airport;Atikokan;Canada;48.7738990784;-91.6386032104
+YIO;Pond Inlet Airport;Pond Inlet;Canada;72.6832962036;-77.9666976929
+YJN;St Jean Airport;St. Jean;Canada;45.29439926147461;-73.28109741210938
+YJT;Stephenville Airport;Stephenville;Canada;48.5442008972168;-58.54999923706055
+YKA;Kamloops Airport;Kamloops;Canada;50.7022018433;-120.444000244
+YKF;Waterloo Airport;Waterloo;Canada;43.460800170899994;-80.3786010742
+YKL;Schefferville Airport;Schefferville;Canada;54.805301666259766;-66.8052978515625
+YKY;Kindersley Airport;Kindersley;Canada;51.5175018311;-109.180999756
+YKZ;Buttonville Municipal Airport;Toronto;Canada;43.86220169067383;-79.37000274658203
+YLD;Chapleau Airport;Chapleau;Canada;47.81999969482422;-83.3467025756836
+YLJ;Meadow Lake Airport;Meadow Lake;Canada;54.125301361083984;-108.52300262451172
+YLL;Lloydminster Airport;Lloydminster;Canada;53.309200286865234;-110.072998046875
+YLT;Alert Airport;Alert;Canada;82.51779937740001;-62.2806015015
+YLW;Kelowna International Airport;Kelowna;Canada;49.9561004639;-119.377998352
+YMA;Mayo Airport;Mayo;Canada;63.61640167236328;-135.8679962158203
+YMJ;Moose Jaw Air Vice Marshal C. M. McEwen Airport;Moose Jaw;Canada;50.330299377441406;-105.55899810791016
+YMM;Fort McMurray Airport;Fort Mcmurray;Canada;56.653301239;-111.222000122
+YMO;Moosonee Airport;Moosonee;Canada;51.291099548339844;-80.60780334472656
+YMW;Maniwaki Airport;Maniwaki;Canada;46.2728004456;-75.9906005859
+YMX;Montreal International (Mirabel) Airport;Montreal;Canada;45.6795005798;-74.0386962891
+YNA;Natashquan Airport;Natashquan;Canada;50.189998626708984;-61.78919982910156
+YND;Ottawa / Gatineau Airport;Gatineau;Canada;45.521701812699995;-75.5635986328
+YNM;Matagami Airport;Matagami;Canada;49.76169967651367;-77.80280303955078
+YOC;Old Crow Airport;Old Crow;Canada;67.57060241699219;-139.83900451660156
+YOD;CFB Cold Lake;Cold Lake;Canada;54.404998779296875;-110.27899932861328
+YOJ;High Level Airport;High Level;Canada;58.62139892578125;-117.16500091552734
+YOW;Ottawa Macdonald-Cartier International Airport;Ottawa;Canada;45.3224983215332;-75.66919708251953
+YPA;Prince Albert Glass Field;Prince Albert;Canada;53.214199066199996;-105.672996521
+YPE;Peace River Airport;Peace River;Canada;56.226898193359375;-117.4469985961914
+YPG;Southport Airport;Portage-la-prairie;Canada;49.903099;-98.273817
+YPL;Pickle Lake Airport;Pickle Lake;Canada;51.4463996887207;-90.21420288085938
+YPN;Port Menier Airport;Port Menier;Canada;49.83639907836914;-64.2885971069336
+YPQ;Peterborough Airport;Peterborough;Canada;44.22999954223633;-78.36329650878906
+YPR;Prince Rupert Airport;Prince Pupert;Canada;54.286098480199996;-130.445007324
+YPY;Fort Chipewyan Airport;Fort Chipewyan;Canada;58.7672004699707;-111.11699676513672
+YQA;Muskoka Airport;Muskoka;Canada;44.974700927734375;-79.30329895019531
+YQB;Quebec Jean Lesage International Airport;Quebec;Canada;46.7911;-71.393303
+YQF;Red Deer Regional Airport;Red Deer Industrial;Canada;52.18220138549805;-113.89399719238281
+YQG;Windsor Airport;Windsor;Canada;42.27560043334961;-82.95559692382812
+YQH;Watson Lake Airport;Watson Lake;Canada;60.11640167236328;-128.82200622558594
+YQK;Kenora Airport;Kenora;Canada;49.788299560546875;-94.36309814453125
+YQL;Lethbridge County Airport;Lethbridge;Canada;49.6302986145;-112.800003052
+YQM;Greater Moncton International Airport;Moncton;Canada;46.11220169067383;-64.67859649658203
+YQQ;Comox Airport;Comox;Canada;49.71080017089844;-124.88700103759766
+YQR;Regina International Airport;Regina;Canada;50.43190002441406;-104.66600036621094
+YQT;Thunder Bay Airport;Thunder Bay;Canada;48.37189865112305;-89.32389831542969
+YQU;Grande Prairie Airport;Grande Prairie;Canada;55.1796989441;-118.885002136
+YQV;Yorkton Municipal Airport;Yorkton;Canada;51.26470184326172;-102.46199798583984
+YQW;North Battleford Airport;North Battleford;Canada;52.76919937133789;-108.24400329589844
+YQX;Gander International Airport;Gander;Canada;48.9369010925293;-54.56809997558594
+YQY;Sydney / J.A. Douglas McCurdy Airport;Sydney;Canada;46.161399841299996;-60.0477981567
+YQZ;Quesnel Airport;Quesnel;Canada;53.026100158691406;-122.51000213623047
+YRB;Resolute Bay Airport;Resolute;Canada;74.7169036865;-94.9693984985
+YRI;Rivière-du-Loup Airport;Riviere Du Loup;Canada;47.764400482177734;-69.58470153808594
+YRJ;Roberval Airport;Roberval;Canada;48.52000045776367;-72.2656021118164
+YRM;Rocky Mountain House Airport;Rocky Mountain House;Canada;52.4296989441;-114.903999329
+YRT;Rankin Inlet Airport;Rankin Inlet;Canada;62.8114013672;-92.1157989502
+YSB;Sudbury Airport;Sudbury;Canada;46.625;-80.79889678955078
+YSC;Sherbrooke Airport;Sherbrooke;Canada;45.4385986328125;-71.69139862060547
+YSJ;Saint John Airport;St. John;Canada;45.31610107421875;-65.89029693603516
+YSM;Fort Smith Airport;Fort Smith;Canada;60.020301818847656;-111.96199798583984
+YSR;Nanisivik Airport;Nanisivik;Canada;72.982201;-84.613602
+YSU;Summerside Airport;Summerside;Canada;46.44060134887695;-63.83359909057617
+YSY;Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport;Sachs Harbour;Canada;71.9938964844;-125.242996216
+YTE;Cape Dorset Airport;Cape Dorset;Canada;64.2300033569;-76.5267028809
+YTH;Thompson Airport;Thompson;Canada;55.80110168457031;-97.86419677734375
+YTR;CFB Trenton;Trenton;Canada;44.118900299072266;-77.5280990600586
+YTS;Timmins/Victor M. Power;Timmins;Canada;48.569698333699996;-81.376701355
+YTZ;Billy Bishop Toronto City Centre Airport;Toronto;Canada;43.627499;-79.396202
+YUB;Tuktoyaktuk Airport;Tuktoyaktuk;Canada;69.43329620361328;-133.0260009765625
+YUL;Montreal / Pierre Elliott Trudeau International Airport;Montreal;Canada;45.4706001282;-73.7407989502
+YUT;Repulse Bay Airport;Repulse Bay;Canada;66.5214004517;-86.22470092770001
+YUX;Hall Beach Airport;Hall Beach;Canada;68.77610015869999;-81.2425
+YUY;Rouyn Noranda Airport;Rouyn;Canada;48.20610046386719;-78.83560180664062
+YVC;La Ronge Airport;La Ronge;Canada;55.151401519800004;-105.262001038
+YVG;Vermilion Airport;Vermillion;Canada;53.355800628699996;-110.823997498
+YVM;Qikiqtarjuaq Airport;Broughton Island;Canada;67.5457992554;-64.03140258789999
+YVO;Val-d'Or Airport;Val D'or;Canada;48.0532989502;-77.7827987671
+YVP;Kuujjuaq Airport;Quujjuaq;Canada;58.096099853515625;-68.4269027709961
+YVQ;Norman Wells Airport;Norman Wells;Canada;65.28160095214844;-126.7979965209961
+YVR;Vancouver International Airport;Vancouver;Canada;49.193901062;-123.183998108
+YVT;Buffalo Narrows Airport;Buffalo Narrows;Canada;55.8418998718;-108.417999268
+YVV;Wiarton Airport;Wiarton;Canada;44.7458;-81.107201
+YWA;Petawawa Airport;Petawawa;Canada;45.95220184326172;-77.31919860839844
+YWG;Winnipeg / James Armstrong Richardson International Airport;Winnipeg;Canada;49.909999847399995;-97.2398986816
+YWK;Wabush Airport;Wabush;Canada;52.92190170288086;-66.8644027709961
+YWL;Williams Lake Airport;Williams Lake;Canada;52.1831016541;-122.054000854
+YWY;Wrigley Airport;Wrigley;Canada;63.20940017700195;-123.43699645996094
+YXC;Cranbrook/Canadian Rockies International Airport;Cranbrook;Canada;49.610801696777;-115.78199768066
+YXD;Edmonton City Centre (Blatchford Field) Airport;Edmonton;Canada;53.5724983215;-113.521003723
+YXE;Saskatoon John G. Diefenbaker International Airport;Saskatoon;Canada;52.170799255371094;-106.69999694824219
+YXH;Medicine Hat Airport;Medicine Hat;Canada;50.01890182495117;-110.72100067138672
+YXJ;Fort St John Airport;Fort Saint John;Canada;56.23809814453125;-120.73999786376953
+YXL;Sioux Lookout Airport;Sioux Lookout;Canada;50.11389923095703;-91.9052963256836
+YXP;Pangnirtung Airport;Pangnirtung;Canada;66.1449966431;-65.71360015869999
+YXR;Earlton (Timiskaming Regional) Airport;Earlton;Canada;47.697400654599996;-79.8473453522
+YXS;Prince George Airport;Prince George;Canada;53.8894004822;-122.679000854
+YXT;Northwest Regional Airport Terrace-Kitimat;Terrace;Canada;54.468498;-128.576009
+YXU;London Airport;London;Canada;43.035599;-81.1539
+YXX;Abbotsford Airport;Abbotsford;Canada;49.025299072265625;-122.36100006103516
+YXY;Whitehorse / Erik Nielsen International Airport;Whitehorse;Canada;60.7095985413;-135.067001343
+YYB;North Bay Airport;North Bay;Canada;46.36360168457031;-79.42279815673828
+YYC;Calgary International Airport;Calgary;Canada;51.113899231;-114.019996643
+YYD;Smithers Airport;Smithers;Canada;54.82469940185547;-127.18299865722656
+YYE;Fort Nelson Airport;Fort Nelson;Canada;58.8363990784;-122.597000122
+YYF;Penticton Airport;Penticton;Canada;49.46310043334961;-119.60199737548828
+YYG;Charlottetown Airport;Charlottetown;Canada;46.290000915527344;-63.12110137939453
+YYH;Taloyoak Airport;Spence Bay;Canada;69.5466995239;-93.5766983032
+YYJ;Victoria International Airport;Victoria;Canada;48.646900177;-123.426002502
+YYL;Lynn Lake Airport;Lynn Lake;Canada;56.86389923095703;-101.07599639892578
+YYN;Swift Current Airport;Swift Current;Canada;50.291900634799994;-107.691001892
+YYQ;Churchill Airport;Churchill;Canada;58.739200592041016;-94.06500244140625
+YYR;Goose Bay Airport;Goose Bay;Canada;53.3191986084;-60.4258003235
+YYT;St. John's International Airport;St. John's;Canada;47.618598938;-52.7518997192
+YYU;Kapuskasing Airport;Kapuskasing;Canada;49.41389846801758;-82.46749877929688
+YYW;Armstrong Airport;Armstrong;Canada;50.29029846191406;-88.90969848632812
+YYY;Mont Joli Airport;Mont Joli;Canada;48.60860061645508;-68.20809936523438
+YYZ;Lester B. Pearson International Airport;Toronto;Canada;43.6772003174;-79.63059997559999
+YZD;Downsview Airport;Toronto;Canada;43.74250030517578;-79.4655990600586
+YZE;Gore Bay Manitoulin Airport;Gore Bay;Canada;45.88529968261719;-82.56780242919922
+YZF;Yellowknife Airport;Yellowknife;Canada;62.462799072265625;-114.44000244140625
+YZH;Slave Lake Airport;Slave Lake;Canada;55.2930984497;-114.777000427
+YZP;Sandspit Airport;Sandspit;Canada;53.25429916379999;-131.813995361
+YZR;Chris Hadfield Airport;Sarnia;Canada;42.9994010925293;-82.30889892578125
+YZT;Port Hardy Airport;Port Hardy;Canada;50.680599212646484;-127.36699676513672
+YZU;Whitecourt Airport;Whitecourt;Canada;54.14390182495117;-115.78700256347656
+YZV;Sept-Îles Airport;Sept-iles;Canada;50.22330093383789;-66.2656021118164
+YZW;Teslin Airport;Teslin;Canada;60.17279815673828;-132.7429962158203
+YZX;CFB Greenwood;Greenwood;Canada;44.98440170288086;-64.91690063476562
+ZFA;Faro Airport;Faro;Canada;62.20750045776367;-133.37600708007812
+ZFM;Fort Mcpherson Airport;Fort Mcpherson;Canada;67.40750122070312;-134.86099243164062
+BJA;Soummam Airport;Bejaja;Algeria;36.7120018005;5.0699200630200005
+ALG;Houari Boumediene Airport;Algier;Algeria;36.691001892089844;3.215409994125366
+DJG;Djanet Inedbirene Airport;Djanet;Algeria;24.292800903299998;9.45244026184
+QFD;Boufarik Airport;Boufarik;Algeria;36.545799;2.87611
+VVZ;Illizi Takhamalt Airport;Illizi;Algeria;26.7234992981;8.62265014648
+TMR;Aguenar – Hadj Bey Akhamok Airport;Tamanrasset;Algeria;22.8115005493;5.45107984543
+GJL;Jijel Ferhat Abbas Airport;Jijel;Algeria;36.7951011658;5.87361001968
+AAE;Annaba Airport;Annaba;Algeria;36.822200775146484;7.809169769287109
+CZL;Mohamed Boudiaf International Airport;Constantine;Algeria;36.2760009765625;6.620389938354492
+TEE;Cheikh Larbi Tébessi Airport;Tebessa;Algeria;35.4315986633;8.12071990967
+HRM;Hassi R'Mel Airport;Tilrempt;Algeria;32.93040084838867;3.311539888381958
+TID;Bou Chekif Airport;Tiaret;Algeria;35.3410987854;1.46315002441
+TIN;Tindouf Airport;Tindouf;Algeria;27.7003993988;-8.167099952700001
+QAS;Ech Cheliff Airport;Ech-cheliff;Algeria;36.2126998901;1.33176994324
+TAF;Tafaraoui Airport;Oran;Algeria;35.54240036010742;-0.5322780013084412
+TLM;Zenata – Messali El Hadj Airport;Tlemcen;Algeria;35.0167007446;-1.45000004768
+ORN;Es Senia Airport;Oran;Algeria;35.6239013672;-0.6211829781529999
+MUW;Ghriss Airport;Ghriss;Algeria;35.207698822021484;0.14714199304580688
+AZR;Touat Cheikh Sidi Mohamed Belkebir Airport;Adrar;Algeria;27.837600708007812;-0.18641400337219238
+BSK;Biskra Airport;Biskra;Algeria;34.793300628699996;5.73823022842
+ELG;El Golea Airport;El Golea;Algeria;30.571300506591797;2.8595900535583496
+GHA;Noumérat - Moufdi Zakaria Airport;Ghardaia;Algeria;32.38410186767578;3.794110059738159
+HME;Oued Irara Airport;Hassi Messaoud;Algeria;31.673000335699996;6.140439987180001
+INZ;In Salah Airport;In Salah;Algeria;27.250999450699997;2.51202011108
+TGR;Touggourt Sidi Madhi Airport;Touggourt;Algeria;33.06779861450195;6.088669776916504
+LOO;Laghouat Airport;Laghouat;Algeria;33.764400482199996;2.92833995819
+TMX;Timimoun Airport;Timimoun;Algeria;29.2371006012;0.276033014059
+OGX;Ain el Beida Airport;Ouargla;Algeria;31.917200088500977;5.412779808044434
+IAM;In Aménas Airport;Zarzaitine;Algeria;28.0515003204;9.64291000366
+COO;Cadjehoun Airport;Cotonou;Benin;6.357230186462402;2.384350061416626
+OUA;Ouagadougou Airport;Ouagadougou;Burkina Faso;12.35319995880127;-1.5124200582504272
+BOY;Bobo Dioulasso Airport;Bobo-dioulasso;Burkina Faso;11.160099983215332;-4.33096981048584
+ACC;Kotoka International Airport;Accra;Ghana;5.605189800262451;-0.16678600013256073
+TML;Tamale Airport;Tamale;Ghana;9.55718994140625;-0.8632140159606934
+NYI;Sunyani Airport;Sunyani;Ghana;7.361830234527588;-2.3287599086761475
+TKD;Takoradi Airport;Takoradi;Ghana;4.896059989929199;-1.7747600078582764
+ABJ;Port Bouet Airport;Abidjan;Cote d'Ivoire;5.261390209197998;-3.9262900352478027
+BYK;Bouaké Airport;Bouake;Cote d'Ivoire;7.738800048828125;-5.073669910430908
+DJO;Daloa Airport;Daloa;Cote d'Ivoire;6.792809963226318;-6.473189830780029
+HGO;Korhogo Airport;Korhogo;Cote d'Ivoire;9.38718032837;-5.55666017532
+MJC;Man Airport;Man;Cote d'Ivoire;7.272069931030273;-7.58735990524292
+SPY;San Pedro Airport;San Pedro;Cote d'Ivoire;4.746719837188721;-6.660820007324219
+ASK;Yamoussoukro Airport;Yamoussoukro;Cote d'Ivoire;6.9031701088;-5.36558008194
+ABV;Nnamdi Azikiwe International Airport;Abuja;Nigeria;9.006790161132812;7.263169765472412
+AKR;Akure Airport;Akure;Nigeria;7.246739864349365;5.3010101318359375
+BNI;Benin Airport;Benin;Nigeria;6.316979885101318;5.5995001792907715
+CBQ;Margaret Ekpo International Airport;Calabar;Nigeria;4.976019859313965;8.347200393676758
+ENU;Akanu Ibiam International Airport;Enugu;Nigeria;6.474269866943359;7.561960220336914
+QUS;Gusau Airport;Gusau;Nigeria;12.171699523925781;6.696109771728516
+IBA;Ibadan Airport;Ibadan;Nigeria;7.362460136413574;3.97832989692688
+ILR;Ilorin International Airport;Ilorin;Nigeria;8.440210342407227;4.493919849395752
+JOS;Yakubu Gowon Airport;Jos;Nigeria;9.639829635620117;8.869050025939941
+KAD;Kaduna Airport;Kaduna;Nigeria;10.696000099182129;7.320109844207764
+KAN;Mallam Aminu International Airport;Kano;Nigeria;12.047599792480469;8.524620056152344
+MIU;Maiduguri International Airport;Maiduguri;Nigeria;11.855299949645996;13.080900192260742
+MDI;Makurdi Airport;Makurdi;Nigeria;7.7038798332214355;8.613940238952637
+LOS;Murtala Muhammed International Airport;Lagos;Nigeria;6.5773701667785645;3.321160078048706
+MXJ;Minna Airport;Minna;Nigeria;9.652170181274414;6.462259769439697
+PHC;Port Harcourt International Airport;Port Hartcourt;Nigeria;5.0154900550842285;6.94959020614624
+SKO;Sadiq Abubakar III International Airport;Sokoto;Nigeria;12.916299819946289;5.207190036773682
+YOL;Yola Airport;Yola;Nigeria;9.257550239562988;12.430399894714355
+ZAR;Zaria Airport;Zaria;Nigeria;11.130200386047363;7.685810089111328
+MFQ;Maradi Airport;Maradi;Niger;13.5024995803833;7.1267499923706055
+NIM;Diori Hamani International Airport;Niamey;Niger;13.481499671936035;2.183609962463379
+THZ;Tahoua Airport;Tahoua;Niger;14.875699996948242;5.265359878540039
+AJY;Mano Dayak International Airport;Agadez;Niger;16.965999603271484;8.000109672546387
+ZND;Zinder Airport;Zinder;Niger;13.779000282287598;8.983759880065918
+MIR;Monastir Habib Bourguiba International Airport;Monastir;Tunisia;35.75809860229492;10.75469970703125
+TUN;Tunis Carthage International Airport;Tunis;Tunisia;36.85100173950195;10.22719955444336
+GAF;Gafsa Ksar International Airport;Gafsa;Tunisia;34.422000885009766;8.822500228881836
+GAE;Gabès Matmata International Airport;Gabes;Tunisia;33.87689971923828;10.103300094604492
+DJE;Djerba Zarzis International Airport;Djerba;Tunisia;33.875;10.775500297546387
+EBM;El Borma Airport;El Borma;Tunisia;31.704299926757812;9.254619598388672
+SFA;Sfax Thyna International Airport;Sfax;Tunisia;34.71799850463867;10.690999984741211
+TOE;Tozeur Nefta International Airport;Tozeur;Tunisia;33.939701080322266;8.110560417175293
+LRL;Niamtougou International Airport;Niatougou;Togo;9.767330169677734;1.091249942779541
+LFW;Lomé-Tokoin Airport;Lome;Togo;6.165609836578369;1.2545100450515747
+ANR;Antwerp International Airport (Deurne);Antwerp;Belgium;51.1893997192;4.46027994156
+BRU;Brussels Airport;Brussels;Belgium;50.901401519800004;4.48443984985
+CRL;Brussels South Charleroi Airport;Charleroi;Belgium;50.459201812699995;4.45382022858
+QKT;Wevelgem Airport;Kortrijk-vevelgem;Belgium;50.817199707;3.20472002029
+LGG;Liège Airport;Liege;Belgium;50.63740158081055;5.443220138549805
+OST;Ostend-Bruges International Airport;Ostend;Belgium;51.198898315399994;2.8622200489
+AOC;Altenburg-Nobitz Airport;Altenburg;Germany;50.9819450378418;12.506388664245605
+BBH;Barth Airport;Barth;Germany;54.338253;12.710515
+SXF;Berlin-Schönefeld International Airport;Berlin;Germany;52.380001068115;13.522500038147
+DRS;Dresden Airport;Dresden;Germany;51.1328010559082;13.767200469970703
+ERF;Erfurt Airport;Erfurt;Germany;50.979801177978516;10.958100318908691
+FRA;Frankfurt am Main International Airport;Frankfurt;Germany;50.0333333;8.5705556
+FMO;Münster Osnabrück Airport;Munster;Germany;52.134601593;7.68483018875
+HAM;Hamburg Airport;Hamburg;Germany;53.630401611328;9.9882297515869
+THF;Berlin-Tempelhof International Airport;Berlin;Germany;52.472999572753906;13.403900146484375
+CGN;Cologne Bonn Airport;Cologne;Germany;50.8658981323;7.1427397728
+DUS;Düsseldorf International Airport;Duesseldorf;Germany;51.28950119018555;6.766779899597168
+MUC;Munich International Airport;Munich;Germany;48.353801727295;11.786100387573
+NUE;Nuremberg Airport;Nuernberg;Germany;49.498699;11.0780556
+LEJ;Leipzig Halle Airport;Leipzig;Germany;51.4238889;12.2363889
+SCN;Saarbrücken Airport;Saarbruecken;Germany;49.214599609400004;7.10950994492
+STR;Stuttgart Airport;Stuttgart;Germany;48.689899444599995;9.22196006775
+TXL;Berlin-Tegel International Airport;Berlin;Germany;52.5597000122;13.2876996994
+HAJ;Hannover Airport;Hannover;Germany;52.461101532;9.685079574580001
+BRE;Bremen Airport;Bremen;Germany;53.0475006104;8.78666973114
+QEF;Frankfurt-Egelsbach Airport;Egelsbach;Germany;49.959999084472656;8.645833015441895
+HHN;Frankfurt-Hahn Airport;Hahn;Germany;49.948699951200005;7.263889789579999
+MHG;Mannheim-City Airport;Mannheim;Germany;49.47305679321289;8.514166831970215
+XFW;Hamburg-Finkenwerder Airport;Hamburg;Germany;53.5352783203125;9.835556030273438
+KEL;Kiel-Holtenau Airport;Kiel;Germany;54.37944412231445;10.145277976989746
+LBC;Lübeck Blankensee Airport;Luebeck;Germany;53.8054008484;10.7192001343
+ZCA;Arnsberg-Menden Airport;Arnsberg;Germany;51.483890533447266;7.8983330726623535
+ESS;Essen Mulheim Airport;Essen;Germany;51.40230178833008;6.9373297691345215
+MGL;Mönchengladbach Airport;Moenchengladbach;Germany;51.23027801513672;6.504444122314453
+PAD;Paderborn Lippstadt Airport;Paderborn;Germany;51.614101409899995;8.616319656369999
+DTM;Dortmund Airport;Dortmund;Germany;51.51829910279999;7.61223983765
+AGB;Augsburg Airport;Augsburg;Germany;48.425278;10.931667
+OBF;Oberpfaffenhofen Airport;Oberpfaffenhofen;Germany;48.08140182495117;11.283100128173828
+RBM;Straubing Airport;Straubing;Germany;48.90083312988281;12.516667366027832
+FDH;Friedrichshafen Airport;Friedrichshafen;Germany;47.671298980699994;9.51148986816
+SZW;Schwerin Parchim Airport;Parchim;Germany;53.426998;11.7834
+ZSN;Stendal-Borstel Airport;Stendal;Germany;52.62888717651367;11.818611145019531
+BYU;Bayreuth Airport;Bayreuth;Germany;49.98500061035156;11.640000343322754
+HOQ;Hof-Plauen Airport;Hof;Germany;50.288612365722656;11.856389045715332
+ZNV;Koblenz-Winningen Airport;Koblenz;Germany;50.325557708740234;7.528611183166504
+ZQF;Trier-Föhren Airport;Trier;Germany;49.863887786865234;6.787499904632568
+ZQC;Speyer Airport;Speyer;Germany;49.30472183227539;8.45138931274414
+ZQW;Zweibrücken Airport;Zweibruecken;Germany;49.20940017700195;7.400559902191162
+ZQL;Donaueschingen-Villingen Airport;Donaueschingen;Germany;47.97333145139999;8.52222156525
+BWE;Braunschweig Wolfsburg Airport;Braunschweig;Germany;52.319199;10.5561
+KSF;Kassel-Calden Airport;Kassel;Germany;51.417273;9.384967
+BRV;Bremerhaven Airport;Bremerhaven;Germany;53.506943;8.572778
+EME;Emden Airport;Emden;Germany;53.391109466552734;7.227499961853027
+WVN;Wilhelmshaven-Mariensiel Airport;Wilhelmshaven;Germany;53.502220153808594;8.05222225189209
+BMK;Borkum Airport;Borkum;Germany;53.5963897705;6.70916700363
+NRD;Norderney Airport;Norderney;Germany;53.70694351196289;7.230000019073486
+FLF;Flensburg-Schäferhaus Airport;Flensburg;Germany;54.77333450317383;9.378889083862305
+GWT;Westerland Sylt Airport;Westerland;Germany;54.9132003784;8.34047031403
+KDL;Kärdla Airport;Kardla;Estonia;58.99079895019531;22.830699920654297
+URE;Kuressaare Airport;Kuressaare;Estonia;58.22990036010742;22.50950050354004
+EPU;Pärnu Airport;Parnu;Estonia;58.41899871826172;24.47279930114746
+TLL;Lennart Meri Tallinn Airport;Tallinn-ulemiste International;Estonia;59.41329956049999;24.832799911499997
+TAY;Tartu Airport;Tartu;Estonia;58.3074989319;26.690399169900004
+ENF;Enontekio Airport;Enontekio;Finland;68.362602233887;23.424299240112
+KEV;Halli Airport;Halli;Finland;61.856039;24.786686
+HEM;Helsinki Malmi Airport;Helsinki;Finland;60.254600524902344;25.042800903320312
+HEL;Helsinki Vantaa Airport;Helsinki;Finland;60.317199707031;24.963300704956
+HYV;Hyvinkää Airfield;Hyvinkaa;Finland;60.6543998718;24.8810997009
+IVL;Ivalo Airport;Ivalo;Finland;68.607299804688;27.405300140381
+JOE;Joensuu Airport;Joensuu;Finland;62.662899017334;29.607500076294
+JYV;Jyvaskyla Airport;Jyvaskyla;Finland;62.399501800537;25.678300857544
+KAU;Kauhava Airport;Kauhava;Finland;63.127102;23.051399
+KEM;Kemi-Tornio Airport;Kemi;Finland;65.778701782227;24.582099914551
+KAJ;Kajaani Airport;Kajaani;Finland;64.285499572754;27.692399978638
+KOK;Kokkola-Pietarsaari Airport;Kruunupyy;Finland;63.721199035645;23.143100738525
+KAO;Kuusamo Airport;Kuusamo;Finland;65.987602233887;29.239400863647
+KTT;Kittilä Airport;Kittila;Finland;67.700996398926;24.846799850464
+KUO;Kuopio Airport;Kuopio;Finland;63.007099151611;27.797800064087
+LPP;Lappeenranta Airport;Lappeenranta;Finland;61.044601;28.144743
+MHQ;Mariehamn Airport;Mariehamn;Finland;60.122200012207;19.898199081421
+MIK;Mikkeli Airport;Mikkeli;Finland;61.6866;27.201799
+OUL;Oulu Airport;Oulu;Finland;64.930099487305;25.354600906372
+POR;Pori Airport;Pori;Finland;61.461700439453;21.799999237061
+RVN;Rovaniemi Airport;Rovaniemi;Finland;66.564796447754;25.830400466919
+SVL;Savonlinna Airport;Savonlinna;Finland;61.943099975586;28.945100784302
+SOT;Sodankyla Airport;Sodankyla;Finland;67.3949966431;26.6191005707
+TMP;Tampere-Pirkkala Airport;Tampere;Finland;61.414100646973;23.604400634766
+TKU;Turku Airport;Turku;Finland;60.514099121094;22.262800216675
+QVY;Utti Air Base;Utti;Finland;60.89640045166;26.938400268555
+VAA;Vaasa Airport;Vaasa;Finland;63.050701141357;21.762199401855
+VRK;Varkaus Airport;Varkaus;Finland;62.171100616455;27.868600845337
+BFS;Belfast International Airport;Belfast;United Kingdom;54.6575012207;-6.2158298492399995
+ENK;St Angelo Airport;Enniskillen;United Kingdom;54.39889907836914;-7.651669979095459
+BHD;George Best Belfast City Airport;Belfast;United Kingdom;54.618099212646484;-5.872499942779541
+LDY;City of Derry Airport;Londonderry;United Kingdom;55.04280090332031;-7.161109924316406
+BHX;Birmingham International Airport;Birmingham;United Kingdom;52.453899383499994;-1.74802994728
+CVT;Coventry Airport;Coventry;United Kingdom;52.3697013855;-1.4797199964499999
+GLO;Gloucestershire Airport;Golouchestershire;United Kingdom;51.89419937133789;-2.167220115661621
+MAN;Manchester Airport;Manchester;United Kingdom;53.35369873046875;-2.2749500274658203
+NQY;Newquay Cornwall Airport;Newquai;United Kingdom;50.44060134887695;-4.995409965515137
+LYE;RAF Lyneham;Lyneham;United Kingdom;51.5051;-1.99343
+YEO;RNAS Yeovilton;Yeovilton;United Kingdom;51.0093994140625;-2.638819932937622
+CWL;Cardiff International Airport;Cardiff;United Kingdom;51.39670181274414;-3.343329906463623
+SWS;Swansea Airport;Swansea;United Kingdom;51.60530090332031;-4.0678300857543945
+BRS;Bristol Airport;Bristol;United Kingdom;51.382702;-2.71909
+LPL;Liverpool John Lennon Airport;Liverpool;United Kingdom;53.33359909057617;-2.849720001220703
+LTN;London Luton Airport;London;United Kingdom;51.874698638916016;-0.36833301186561584
+PLH;Plymouth City Airport;Plymouth;United Kingdom;50.422798;-4.10583
+BOH;Bournemouth Airport;Bournemouth;United Kingdom;50.779998779296875;-1.8424999713897705
+SOU;Southampton Airport;Southampton;United Kingdom;50.95029830932617;-1.3567999601364136
+QLA;Lasham Airport;Lasham;United Kingdom;51.187198638916016;-1.0334999561309814
+ACI;Alderney Airport;Alderney;Guernsey;49.70610046386719;-2.2147200107574463
+GCI;Guernsey Airport;Guernsey;Guernsey;49.435001373291016;-2.6019699573516846
+JER;Jersey Airport;Jersey;Jersey;49.20790100097656;-2.195509910583496
+ESH;Shoreham Airport;Shoreham By Sea;United Kingdom;50.835601806640625;-0.29722198843955994
+BQH;London Biggin Hill Airport;Biggin Hill;United Kingdom;51.33079910279999;0.0324999988079
+LGW;London Gatwick Airport;London;United Kingdom;51.148101806640625;-0.19027799367904663
+LCY;London City Airport;London;United Kingdom;51.505299;0.055278
+FAB;Farnborough Airport;Farnborough;United Kingdom;51.2757987976;-0.776332974434
+BBS;Blackbushe Airport;Blackbushe;United Kingdom;51.32389831542969;-0.8475000262260437
+LHR;London Heathrow Airport;London;United Kingdom;51.4706;-0.461941
+SEN;Southend Airport;Southend;United Kingdom;51.5713996887207;0.6955559849739075
+LYX;Lydd Airport;Lydd;United Kingdom;50.95610046386719;0.9391670227050781
+MSE;Kent International Airport;Manston;United Kingdom;51.342201;1.34611
+CAX;Carlisle Airport;Carlisle;United Kingdom;54.9375;-2.8091700077056885
+BLK;Blackpool International Airport;Blackpool;United Kingdom;53.77170181274414;-3.0286099910736084
+HUY;Humberside Airport;Humberside;United Kingdom;53.57440185546875;-0.350832998752594
+BWF;Barrow Walney Island Airport;Barrow Island;United Kingdom;54.1286111;-3.2675
+LBA;Leeds Bradford Airport;Leeds;United Kingdom;53.86589813232422;-1.6605700254440308
+CEG;Hawarden Airport;Hawarden;United Kingdom;53.1781005859375;-2.9777801036834717
+IOM;Isle of Man Airport;Isle Of Man;Isle of Man;54.08330154418945;-4.623889923095703
+NCL;Newcastle Airport;Newcastle;United Kingdom;55.037498474121094;-1.6916699409484863
+MME;Durham Tees Valley Airport;Teesside;United Kingdom;54.50920104980469;-1.4294099807739258
+EMA;East Midlands Airport;East Midlands;United Kingdom;52.8311004639;-1.32806003094
+KOI;Kirkwall Airport;Kirkwall;United Kingdom;58.957801818847656;-2.9049999713897705
+LSI;Sumburgh Airport;Sumburgh;United Kingdom;59.87889862060547;-1.2955600023269653
+WIC;Wick Airport;Wick;United Kingdom;58.458900451660156;-3.09306001663208
+ABZ;Aberdeen Dyce Airport;Aberdeen;United Kingdom;57.201900482177734;-2.197779893875122
+INV;Inverness Airport;Inverness;United Kingdom;57.54249954223633;-4.047500133514404
+GLA;Glasgow International Airport;Glasgow;United Kingdom;55.8718986511;-4.43306016922
+EDI;Edinburgh Airport;Edinburgh;United Kingdom;55.95000076293945;-3.372499942779541
+ILY;Islay Airport;Islay;United Kingdom;55.68190002441406;-6.256669998168945
+PIK;Glasgow Prestwick Airport;Prestwick;United Kingdom;55.5093994140625;-4.586669921875
+BEB;Benbecula Airport;Benbecula;United Kingdom;57.48109817504883;-7.3627800941467285
+SCS;Scatsta Airport;Scatsta;United Kingdom;60.43280029296875;-1.2961100339889526
+DND;Dundee Airport;Dundee;United Kingdom;56.45249938964844;-3.025830030441284
+SYY;Stornoway Airport;Stornoway;United Kingdom;58.215599060058594;-6.331110000610352
+TRE;Tiree Airport;Tiree;United Kingdom;56.49919891357422;-6.869170188903809
+ADX;RAF Leuchars;Leuchars;United Kingdom;56.37289810180664;-2.8684399127960205
+LMO;RAF Lossiemouth;Lossiemouth;United Kingdom;57.7052001953125;-3.339169979095459
+CBG;Cambridge Airport;Cambridge;United Kingdom;52.2050018311;0.17499999702
+NWI;Norwich International Airport;Norwich;United Kingdom;52.6758003235;1.28278005123
+STN;London Stansted Airport;London;United Kingdom;51.8849983215;0.234999999404
+EXT;Exeter International Airport;Exeter;United Kingdom;50.73440170288086;-3.4138898849487305
+FZO;Bristol Filton Airport;Bristol;United Kingdom;51.5194015503;-2.59083008766
+OXF;Oxford (Kidlington) Airport;Oxford;United Kingdom;51.8368988037;-1.32000005245
+MHZ;RAF Mildenhall;Mildenhall;United Kingdom;52.361900329589844;0.48640599846839905
+FFD;RAF Fairford;Fairford;United Kingdom;51.6822013855;-1.7900300025900002
+BZZ;RAF Brize Norton;Brize Norton;United Kingdom;51.75;-1.58362
+ODH;RAF Odiham;Odiham;United Kingdom;51.2341003418;-0.94282501936
+NHT;RAF Northolt;Northolt;United Kingdom;51.553001403799996;-0.418166995049
+QCY;RAF Coningsby;Coningsby;United Kingdom;53.0929985046;-0.166014000773
+BEQ;RAF Honington;Honington;United Kingdom;52.34260177612305;0.7729390263557434
+HRT;RAF Linton-On-Ouse;Linton-on-ouse;United Kingdom;54.0489006042;-1.2527500391
+WTN;RAF Waddington;Waddington;United Kingdom;53.1661987305;-0.523810982704
+KNF;RAF Marham;Marham;United Kingdom;52.648395;0.550692
+MPN;Mount Pleasant Airport;Mount Pleasant;Falkland Islands;-51.82279968261719;-58.447200775146484
+AMS;Amsterdam Airport Schiphol;Amsterdam;Netherlands;52.3086013794;4.763889789579999
+MST;Maastricht Aachen Airport;Maastricht;Netherlands;50.9117012024;5.77014017105
+EIN;Eindhoven Airport;Eindhoven;Netherlands;51.4500999451;5.37452983856
+GRQ;Eelde Airport;Groningen;Netherlands;53.1197013855;6.57944011688
+DHR;De Kooy Airport;De Kooy;Netherlands;52.92340087890625;4.780620098114014
+LEY;Lelystad Airport;Lelystad;Netherlands;52.46030044555664;5.527219772338867
+LWR;Leeuwarden Air Base;Leeuwarden;Netherlands;53.228599548339844;5.760560035705566
+RTM;Rotterdam The Hague Airport;Rotterdam;Netherlands;51.956902;4.43722
+UTC;Soesterberg Air Base;Soesterberg;Netherlands;52.1273002625;5.27618980408
+ENS;Twente Airfield;Enschede;Netherlands;52.2758333;6.8891667
+LID;Valkenburg Naval Air Base;Valkenburg;Netherlands;52.166099548300004;4.41794013977
+WOE;Woensdrecht Air Base;Woensdrecht;Netherlands;51.4491;4.34203
+ORK;Cork Airport;Cork;Ireland;51.84130096435547;-8.491109848022461
+GWY;Galway Airport;Galway;Ireland;53.300201416015625;-8.941590309143066
+DUB;Dublin Airport;Dublin;Ireland;53.42129898071289;-6.2700700759887695
+NOC;Ireland West Knock Airport;Connaught;Ireland;53.910301208496094;-8.818490028381348
+KIR;Kerry Airport;Kerry;Ireland;52.18090057373047;-9.52377986907959
+SNN;Shannon Airport;Shannon;Ireland;52.701999664307;-8.9248199462891
+SXL;Sligo Airport;Sligo;Ireland;54.280200958252;-8.5992097854614
+WAT;Waterford Airport;Waterford;Ireland;52.187198638916016;-7.0869598388671875
+AAR;Aarhus Airport;Aarhus;Denmark;56.2999992371;10.619000434899998
+BLL;Billund Airport;Billund;Denmark;55.7402992249;9.15178012848
+CPH;Copenhagen Kastrup Airport;Copenhagen;Denmark;55.617900848389;12.656000137329
+EBJ;Esbjerg Airport;Esbjerg;Denmark;55.525901794433594;8.553400039672852
+KRP;Karup Airport;Karup;Denmark;56.29750061035156;9.124629974365234
+ODE;Odense Airport;Odense;Denmark;55.47669982910156;10.330900192260742
+RKE;Copenhagen Roskilde Airport;Copenhagen;Denmark;55.585601806640625;12.131400108337402
+RNN;Bornholm Airport;Ronne;Denmark;55.06330108642578;14.759599685668945
+SGD;Sønderborg Airport;Soenderborg;Denmark;54.96440124511719;9.791729927062988
+SKS;Skrydstrup Air Base;Skrydstrup;Denmark;55.221048;9.26702
+TED;Thisted Airport;Thisted;Denmark;57.06880187988281;8.705220222473145
+FAE;Vagar Airport;Vagar;Faroe Islands;62.0635986328125;-7.277219772338867
+STA;Stauning Airport;Stauning;Denmark;55.9901008605957;8.353910446166992
+AAL;Aalborg Airport;Aalborg;Denmark;57.0927589138;9.84924316406
+LUX;Luxembourg-Findel International Airport;Luxemburg;Luxembourg;49.6233333;6.2044444
+AES;Ålesund Airport;Alesund;Norway;62.5625;6.119699954986572
+ANX;Andøya Airport;Andoya;Norway;69.292503356934;16.144199371338
+ALF;Alta Airport;Alta;Norway;69.976097106934;23.371700286865
+BNN;Brønnøysund Airport;Bronnoysund;Norway;65.461097717285;12.217499732971
+BOO;Bodø Airport;Bodo;Norway;67.26920318603516;14.365300178527832
+BGO;Bergen Airport Flesland;Bergen;Norway;60.29339981;5.218140125
+BJF;Båtsfjord Airport;Batsfjord;Norway;70.60050201416;29.691400527954
+KRS;Kristiansand Airport;Kristiansand;Norway;58.204200744628906;8.085370063781738
+BDU;Bardufoss Airport;Bardufoss;Norway;69.055801391602;18.540399551392
+EVE;Harstad/Narvik Airport, Evenes;Harstad/Narvik;Norway;68.491302490234;16.678100585938
+VDB;Leirin Airport;Fagernes;Norway;61.015598297119;9.2880601882935
+FRO;Florø Airport;Floro;Norway;61.583599090576;5.0247201919556
+OSL;Oslo Gardermoen Airport;Oslo;Norway;60.193901062012;11.100399971008
+HAU;Haugesund Airport;Haugesund;Norway;59.34529876709;5.2083601951599
+HAA;Hasvik Airport;Hasvik;Norway;70.486701965332;22.139699935913
+KSU;Kristiansund Airport (Kvernberget);Kristiansund;Norway;63.111801147461;7.824520111084
+KKN;Kirkenes Airport (Høybuktmoen);Kirkenes;Norway;69.725799560547;29.891300201416
+FAN;Lista Airport;Farsund;Norway;58.0994987487793;6.626049995422363
+MOL;Molde Airport;Molde;Norway;62.744701385498;7.2624998092651
+MJF;Mosjøen Airport (Kjærstad);Mosjoen;Norway;65.783996582031;13.214900016785
+LKL;Banak Airport;Lakselv;Norway;70.068801879883;24.973499298096
+NTB;Notodden Airport;Notodden;Norway;59.565701;9.21222
+OLA;Ørland Airport;Orland;Norway;63.69889831542969;9.604000091552734
+RRS;Røros Airport;Roros;Norway;62.578399658203;11.342300415039
+RYG;Moss-Rygge Airport;Rygge;Norway;59.378817;10.785439
+LYR;Svalbard Airport, Longyear;Svalbard;Norway;78.246101379395;15.465600013733
+SKE;Skien Airport;Skien;Norway;59.185001373291016;9.566940307617188
+SRP;Stord Airport;Stord;Norway;59.791900634765625;5.340849876403809
+SSJ;Sandnessjøen Airport (Stokka);Sandnessjoen;Norway;65.956802368164;12.468899726868
+TOS;Tromsø Airport;Tromso;Norway;69.68329620361328;18.918899536132812
+TRF;Sandefjord Airport, Torp;Sandefjord;Norway;59.1866989136;10.258600235
+TRD;Trondheim Airport Værnes;Trondheim;Norway;63.4578018;10.9239998
+SVG;Stavanger Airport Sola;Stavanger;Norway;58.876701354;5.6377801895
+GDN;Gdańsk Lech Wałęsa Airport;Gdansk;Poland;54.377601623535156;18.46619987487793
+KRK;John Paul II International Airport Kraków-Balice Airport;Krakow;Poland;50.077701568603516;19.784799575805664
+KTW;Katowice International Airport;Katowice;Poland;50.4743;19.08
+POZ;Poznań-Ławica Airport;Poznan;Poland;52.421001434299995;16.8262996674
+RZE;Rzeszów-Jasionka Airport;Rzeszow;Poland;50.1100006104;22.0189990997
+SZZ;Szczecin-Goleniów \"Solidarność\" Airport;Szczecin;Poland;53.584701538100006;14.902199745199999
+OSP;Redzikowo Air Base;Slupsk;Poland;54.47890090942383;17.107500076293945
+WAW;Warsaw Chopin Airport;Warsaw;Poland;52.1656990051;20.967100143399996
+WRO;Copernicus Wrocław Airport;Wroclaw;Poland;51.1026992798;16.885799408
+IEG;Zielona Góra-Babimost Airport;Zielona Gora;Poland;52.138500213600004;15.7986001968
+RNB;Ronneby Airport;Ronneby;Sweden;56.266700744629;15.265000343323
+GOT;Gothenburg-Landvetter Airport;Gothenborg;Sweden;57.662799835205;12.279800415039
+JKG;Jönköping Airport;Joenkoeping;Sweden;57.757598876953125;14.068699836730957
+LDK;Lidköping-Hovby Airport;Lidkoping;Sweden;58.46549987793;13.17440032959
+GSE;Gothenburg City Airport;Gothenborg;Sweden;57.77470016479492;11.870400428771973
+KVB;Skövde Airport;Skovde;Sweden;58.45640182495117;13.972700119018555
+THN;Trollhättan-Vänersborg Airport;Trollhattan;Sweden;58.31809997558594;12.345000267028809
+KSK;Karlskoga Airport;Karlskoga;Sweden;59.34590148925781;14.49590015411377
+MXX;Mora Airport;Mora;Sweden;60.95790100097656;14.51140022277832
+NYO;Stockholm Skavsta Airport;Stockholm;Sweden;58.78860092163086;16.912200927734375
+KID;Kristianstad Airport;Kristianstad;Sweden;55.92169952392578;14.08549976348877
+JLD;Landskrona Airport;Landskrona;Sweden;55.94599914550781;12.869999885559082
+OSK;Oskarshamn Airport;Oskarshamn;Sweden;57.350498199463;16.497999191284
+KLR;Kalmar Airport;Kalkmar;Sweden;56.68550109863281;16.287599563598633
+MMX;Malmö Sturup Airport;Malmoe;Sweden;55.536305364;13.376197814900001
+HAD;Halmstad Airport;Halmstad;Sweden;56.69110107421875;12.820199966430664
+VXO;Växjö Kronoberg Airport;Vaxjo;Sweden;56.929100036621094;14.727999687194824
+EVG;Sveg Airport;Sveg;Sweden;62.04779815673828;14.422900199890137
+GEV;Gällivare Airport;Gallivare;Sweden;67.13240051269531;20.814599990844727
+HUV;Hudiksvall Airport;Hudiksvall;Sweden;61.7681007385;17.0806999207
+KRF;Kramfors Sollefteå Airport;Kramfors;Sweden;63.04859924316406;17.76889991760254
+LYC;Lycksele Airport;Lycksele;Sweden;64.54830169677734;18.71619987487793
+SDL;Sundsvall-Härnösand Airport;Sundsvall;Sweden;62.528099060058594;17.443899154663086
+OER;Örnsköldsvik Airport;Ornskoldsvik;Sweden;63.40829849243164;18.989999771118164
+KRN;Kiruna Airport;Kiruna;Sweden;67.821998596191;20.336799621582
+SFT;Skellefteå Airport;Skelleftea;Sweden;64.62480163574219;21.076900482177734
+UME;Umeå Airport;Umea;Sweden;63.791801452637;20.282800674438
+VHM;Vilhelmina Airport;Vilhelmina;Sweden;64.5791015625;16.833599090576172
+AJR;Arvidsjaur Airport;Arvidsjaur;Sweden;65.59030151367188;19.28190040588379
+ORB;Örebro Airport;Orebro;Sweden;59.22370147705078;15.038000106811523
+VST;Stockholm Västerås Airport;Vasteras;Sweden;59.58940124511719;16.63360023498535
+LLA;Luleå Airport;Lulea;Sweden;65.543800354004;22.121999740601
+ARN;Stockholm-Arlanda Airport;Stockholm;Sweden;59.651901245117;17.918600082397
+BMA;Stockholm-Bromma Airport;Stockholm;Sweden;59.354400634765625;17.941699981689453
+BLE;Borlange Airport;Borlange;Sweden;60.422000885009766;15.515199661254883
+HLF;Hultsfred Airport;Hultsfred;Sweden;57.525798797607;15.823300361633
+GVX;Gävle Sandviken Airport;Gavle;Sweden;60.593299865722656;16.951400756835938
+LPI;Linköping City Airport;Linkoeping;Sweden;58.4062004089;15.680500030500001
+NRK;Norrköping Airport;Norrkoeping;Sweden;58.586299896240234;16.250600814819336
+VBY;Visby Airport;Visby;Sweden;57.662799835205;18.346200942993
+SPM;Spangdahlem Air Base;Spangdahlem;Germany;49.9726982117;6.69250011444
+RMS;Ramstein Air Base;Ramstein;Germany;49.4369010925293;7.600279808044434
+GHF;[Duplicate] Giebelstadt Army Air Field;Giebelstadt;Germany;49.648101806599996;9.966489791870002
+ZCN;Celle Airport;Celle;Germany;52.59120178222656;10.022100448608398
+ZNF;Hanau Army Air Field;Hanau;Germany;50.169201;8.96159
+GKE;Geilenkirchen Air Base;Geilenkirchen;Germany;50.9608;6.04242
+RLG;Rostock-Laage Airport;Laage;Germany;53.9182014465;12.278300285299999
+FEL;Fürstenfeldbruck Airport;Fuerstenfeldbruck;Germany;48.2055549621582;11.26694393157959
+IGS;Ingolstadt Manching Airport;Ingolstadt;Germany;48.7156982421875;11.534000396728516
+GUT;Gütersloh Air Base;Guetersloh;Germany;51.922798;8.30633
+ALJ;Alexander Bay Airport;Alexander Bay;South Africa;-28.5750007629;16.5333003998
+AGZ;Aggeneys Airport;Aggeneys;South Africa;-29.28179931640625;18.813899993896484
+BIY;Bisho Airport;Bisho;South Africa;-32.8970985413;27.279100418099997
+BFN;Bram Fischer International Airport;Bloemfontein;South Africa;-29.092699050900002;26.302400589
+CPT;Cape Town International Airport;Cape Town;South Africa;-33.9648017883;18.6016998291
+DUR;King Shaka International Airport;Durban;South Africa;-29.6144444444;31.1197222222
+ELS;Ben Schoeman Airport;East London;South Africa;-33.0355987549;27.825899124099998
+GCJ;Grand Central Airport;Johannesburg;South Africa;-25.986299514799995;28.1401004791
+GRJ;George Airport;George;South Africa;-34.0055999756;22.378900528
+HDS;Hoedspruit Air Force Base Airport;Hoedspruit;South Africa;-24.368600845299998;31.0487003326
+JNB;OR Tambo International Airport;Johannesburg;South Africa;-26.1392;28.246
+KIM;Kimberley Airport;Kimberley;South Africa;-28.802799224900003;24.7651996613
+KMH;Johan Pienaar Airport;Kuruman;South Africa;-27.45669937133789;23.411399841308594
+KLZ;Kleinsee Airport;Kleinsee;South Africa;-29.6884002686;17.093999862700002
+HLA;Lanseria Airport;Johannesburg;South Africa;-25.938499450699997;27.9260997772
+LAY;Ladysmith Airport;Ladysmith;South Africa;-28.5816993713;29.749700546299998
+MGH;Margate Airport;Margate;South Africa;-30.8574008942;30.343000412
+MEZ;Morningside Farm Airport;Musina;South Africa;-25.7045001984;26.9090003967
+NCS;Newcastle Airport;Newcastle;South Africa;-27.7705993652;29.976900100699996
+DUH;Oudtshoorn Airport;Oudtshoorn;South Africa;-33.6069984436;22.188999176
+PLZ;Port Elizabeth Airport;Port Elizabeth;South Africa;-33.9849014282;25.6173000336
+PHW;Hendrik Van Eck Airport;Phalaborwa;South Africa;-23.937200546299998;31.1553993225
+PZB;Pietermaritzburg Airport;Pietermaritzburg;South Africa;-29.649000167799997;30.3987007141
+NTY;Pilanesberg International Airport;Pilanesberg;South Africa;-25.333799362199997;27.173400878900004
+PTG;Polokwane International Airport;Potgietersrus;South Africa;-23.845269;29.458615
+UTW;Queenstown Airport;Queenstown;South Africa;-31.92020034790039;26.882200241088867
+RCB;Richards Bay Airport;Richard's Bay;South Africa;-28.740999221800003;32.0920982361
+ROD;Robertson Airport;Robertson;South Africa;-33.812198638916016;19.902799606323242
+SBU;Springbok Airport;Springbok;South Africa;-29.689300537109375;17.939599990844727
+SIS;Sishen Airport;Sishen;South Africa;-27.6485996246;22.9993000031
+SZK;Skukuza Airport;Skukuza;South Africa;-24.960899353;31.5886993408
+LTA;Tzaneen Airport;Tzaneen;South Africa;-23.8243999481;30.329299926799997
+ULD;Prince Mangosuthu Buthelezi Airport;Ulundi;South Africa;-28.3206005096;31.4165000916
+UTN;Pierre Van Ryneveld Airport;Upington;South Africa;-28.39909935;21.260200500499998
+UTT;K. D. Matanzima Airport;Umtata;South Africa;-31.546363184900002;28.6733551025
+VRU;Vryburg Airport;Vryburg;South Africa;-26.9824008942;24.7287998199
+VIR;Virginia Airport;Durban;South Africa;-29.770599365234375;31.058399200439453
+PRY;Wonderboom Airport;Pretoria;South Africa;-25.6539;28.224199
+WEL;Welkom Airport;Welkom;South Africa;-27.996824511099998;26.663333892799997
+FRW;Francistown Airport;Francistown;Botswana;-21.15959930419922;27.47450065612793
+JWA;Jwaneng Airport;Jwaneng;Botswana;-24.6023006439209;24.69099998474121
+BBK;Kasane Airport;Kasane;Botswana;-17.83289909362793;25.162399291992188
+MUB;Maun Airport;Maun;Botswana;-19.97260093688965;23.431100845336914
+GBE;Sir Seretse Khama International Airport;Gaberone;Botswana;-24.555200576782227;25.91819953918457
+PKW;Selebi Phikwe Airport;Selebi-phikwe;Botswana;-22.0583;27.8288
+BZV;Maya-Maya Airport;Brazzaville;Congo (Brazzaville);-4.251699924468994;15.253000259399414
+FTX;Owando Airport;Owando;Congo (Kinshasa);-0.5313500165939331;15.95009994506836
+OUE;Ouesso Airport;Ouesso;Congo (Kinshasa);1.6159900426899998;16.0379009247
+PNR;Pointe Noire Airport;Pointe-noire;Congo (Brazzaville);-4.816030025482178;11.88659954071045
+MTS;Matsapha Airport;Manzini;Swaziland;-26.52899932861328;31.3075008392334
+BGF;Bangui M'Poko International Airport;Bangui;Central African Republic;4.39847993850708;18.518800735473633
+BBT;Berbérati Airport;Berberati;Central African Republic;4.2215800285339355;15.786399841308594
+BSG;Bata Airport;Bata;Equatorial Guinea;1.9054700136184692;9.805680274963379
+SSG;Malabo Airport;Malabo;Equatorial Guinea;3.755270004272461;8.708720207214355
+ASI;RAF Ascension Island;Wide Awake;Saint Helena;-7.969600200653076;-14.393699645996094
+MRU;Sir Seewoosagur Ramgoolam International Airport;Plaisance;Mauritius;-20.430200576782227;57.68360137939453
+RRG;Sir Charles Gaetan Duval Airport;Rodriguez Island;Mauritius;-19.757699966430664;63.361000061035156
+TKC;Tiko Airport;Tiko;Cameroon;4.08919000626;9.360529899600001
+DLA;Douala International Airport;Douala;Cameroon;4.0060801506;9.719479560849999
+MVR;Salak Airport;Maroua;Cameroon;10.451399803161621;14.257399559020996
+FOM;Foumban Nkounja Airport;Foumban;Cameroon;5.636919975280762;10.750800132751465
+NGE;N'Gaoundéré Airport;N'gaoundere;Cameroon;7.3570098876953125;13.559200286865234
+GOU;Garoua International Airport;Garoua;Cameroon;9.33588981628418;13.370100021362305
+BFX;Bafoussam Airport;Bafoussam;Cameroon;5.536920070650001;10.354599952700001
+BPC;Bamenda Airport;Bamenda;Cameroon;6.039239883422852;10.122599601745605
+YAO;Yaoundé Airport;Yaounde;Cameroon;3.8360400199890137;11.523500442504883
+LVI;Livingstone Airport;Livingstone;Zambia;-17.821800231933594;25.82270050048828
+LUN;Kenneth Kaunda International Airport Lusaka;Lusaka;Zambia;-15.3308000565;28.4526004791
+MFU;Mfuwe Airport;Mfuwe;Zambia;-13.258899688720703;31.936599731445312
+NLA;Simon Mwansa Kapwepwe International Airport;Ndola;Zambia;-12.998100280762;28.66489982605
+KIW;Southdowns Airport;Southdowns;Zambia;-12.900500297546387;28.149900436401367
+HAH;Prince Said Ibrahim International Airport;Moroni;Comoros;-11.5337;43.2719
+NWA;Mohéli Bandar Es Eslam Airport;Moheli;Comoros;-12.298100471496582;43.76639938354492
+AJN;Ouani Airport;Anjouan;Comoros;-12.131699562072754;44.430301666259766
+DZA;Dzaoudzi Pamandzi International Airport;Dzaoudzi;Mayotte;-12.804699897766113;45.28110122680664
+RUN;Roland Garros Airport;St.-denis;Reunion;-20.887100219726562;55.51029968261719
+ZSE;Pierrefonds Airport;St.-pierre;Reunion;-21.320899963378906;55.42499923706055
+TNR;Ivato Airport;Antananarivo;Madagascar;-18.7968997955;47.4788017273
+ZVA;Miandrivazo Airport;Miandrivazo;Madagascar;-19.56279945373535;45.450801849365234
+SMS;Sainte Marie Airport;Sainte Marie;Madagascar;-17.093900680541992;49.815799713134766
+TMM;Toamasina Airport;Toamasina;Madagascar;-18.109500885009766;49.39250183105469
+MOQ;Morondava Airport;Morondava;Madagascar;-20.284700393676758;44.31760025024414
+DIE;Arrachart Airport;Antsiranana;Madagascar;-12.34939956665039;49.29169845581055
+WMR;Mananara Nord Airport;Mananara;Madagascar;-16.16390037536621;49.773799896240234
+ZWA;Andapa Airport;Andapa;Madagascar;-14.651700019836426;49.620601654052734
+AMB;Ambilobe Airport;Ambilobe;Madagascar;-13.188400268554688;48.987998962402344
+ANM;Antsirabato Airport;Antalaha;Madagascar;-14.99940013885498;50.3202018737793
+HVA;Analalava Airport;Analalava;Madagascar;-14.62969970703125;47.76380157470703
+MJN;Amborovy Airport;Mahajanga;Madagascar;-15.6668417421;46.351232528699995
+NOS;Fascene Airport;Nosy-be;Madagascar;-13.3121004105;48.3148002625
+BPY;Besalampy Airport;Besalampy;Madagascar;-16.744530296500002;44.4824838638
+WMN;Maroantsetra Airport;Maroantsetra;Madagascar;-15.436699867248535;49.68830108642578
+SVB;Sambava Airport;Sambava;Madagascar;-14.278599739074707;50.17470169067383
+VOH;Vohimarina Airport;Vohemar;Madagascar;-13.375800132751465;50.00279998779297
+WAI;Ambalabe Airport;Antsohihy;Madagascar;-14.898799896240234;47.993900299072266
+IVA;Ampampamena Airport;Ampampamena;Madagascar;-13.484816;48.632702
+FTU;Tôlanaro Airport;Tolagnaro;Madagascar;-25.03809928894043;46.95610046386719
+WFI;Fianarantsoa Airport;Fianarantsoa;Madagascar;-21.441600799560547;47.111698150634766
+RVA;Farafangana Airport;Farafangana;Madagascar;-22.805299758911133;47.82059860229492
+WVK;Manakara Airport;Manakara;Madagascar;-22.119699478149414;48.02170181274414
+MNJ;Mananjary Airport;Mananjary;Madagascar;-21.201799392700195;48.358299255371094
+MXM;Morombe Airport;Morombe;Madagascar;-21.7539005279541;43.3754997253418
+TLE;Toliara Airport;Toliara;Madagascar;-23.383399963378906;43.72850036621094
+SSY;Mbanza Congo Airport;M'banza-congo;Angola;-6.269899845123291;14.246999740600586
+BUG;Benguela Airport;Benguela;Angola;-12.609000206;13.4036998749
+CAB;Cabinda Airport;Cabinda;Angola;-5.59699010848999;12.188400268554688
+NOV;Nova Lisboa Airport;Huambo;Angola;-12.808899879455566;15.760499954223633
+SVP;Kuito Airport;Kuito;Angola;-12.404600143433;16.947399139404
+LAD;Quatro de Fevereiro Airport;Luanda;Angola;-8.85836982727;13.231200218199998
+MEG;Malanje Airport;Malanje;Angola;-9.525090217590332;16.312400817871094
+SPP;Menongue Airport;Menongue;Angola;-14.657600402832031;17.71980094909668
+GXG;Negage Airport;Negage;Angola;-7.754509925842285;15.287699699401855
+PBN;Porto Amboim Airport;Porto Amboim;Angola;-10.722000122070312;13.76550006866455
+VHC;Saurimo Airport;Saurimo;Angola;-9.689069747924805;20.431900024414062
+SZA;Soyo Airport;Soyo;Angola;-6.141089916229248;12.371800422668457
+SDD;Lubango Airport;Lubango;Angola;-14.924699783325195;13.574999809265137
+LUO;Luena Airport;Luena;Angola;-11.768099784851074;19.8976993560791
+UGO;Uige Airport;Uige;Angola;-7.60306978225708;15.027799606323242
+XGN;Xangongo Airport;Xangongo;Angola;-16.755399703979492;14.965299606323242
+OYE;Oyem Airport;Oyem;Gabon;1.5431100130081177;11.581399917602539
+OKN;Okondja Airport;Okondja;Gabon;-0.6652140021324158;13.673100471496582
+LBQ;Lambarene Airport;Lambarene;Gabon;-0.7043889760971069;10.245699882507324
+BMM;Bitam Airport;Bitam;Gabon;2.0756399631500244;11.493200302124023
+POG;Port Gentil Airport;Port Gentil;Gabon;-0.7117390036582947;8.754380226135254
+OMB;Omboue Hopital Airport;Omboue Hospial;Gabon;-1.5747300386428833;9.262689590454102
+MKU;Makokou Airport;Makokou;Gabon;0.5792109966278076;12.890899658203125
+LBV;Libreville Leon M'ba International Airport;Libreville;Gabon;0.458600014448;9.412280082699999
+MVB;M'Vengue El Hadj Omar Bongo Ondimba International Airport;Franceville;Gabon;-1.6561599969863892;13.437999725341797
+PCP;Principe Airport;Principe;Sao Tome and Principe;1.6629400253295898;7.411739826202393
+TMS;São Tomé International Airport;Sao Tome;Sao Tome and Principe;0.3781749904155731;6.7121500968933105
+BEW;Beira Airport;Beira;Mozambique;-19.79640007019043;34.90760040283203
+INH;Inhambane Airport;Inhambane;Mozambique;-23.876399993896484;35.40850067138672
+VXC;Lichinga Airport;Lichinga;Mozambique;-13.27400016784668;35.266300201416016
+MPM;Maputo Airport;Maputo;Mozambique;-25.920799255371094;32.572601318359375
+MZB;Mocímboa da Praia Airport;Mocimboa Da Praia;Mozambique;-11.361800193786621;40.35490036010742
+MNC;Nacala Airport;Nacala;Mozambique;-14.488200187683105;40.71220016479492
+APL;Nampula Airport;Nampula;Mozambique;-15.105600357055664;39.28179931640625
+POL;Pemba Airport;Pemba;Mozambique;-12.991762161254883;40.52401351928711
+UEL;Quelimane Airport;Quelimane;Mozambique;-17.855499267578125;36.86909866333008
+TET;Chingozi Airport;Tete;Mozambique;-16.104799270629883;33.640201568603516
+VNX;Vilankulo Airport;Vilankulu;Mozambique;-22.018400192260742;35.31330108642578
+DES;Desroches Airport;Desroches;Seychelles;-5.6967;53.6558
+SEZ;Seychelles International Airport;Mahe;Seychelles;-4.674339771270752;55.52180099487305
+PRI;Praslin Airport;Praslin;Seychelles;-4.3192901611328125;55.69139862060547
+AEH;Abeche Airport;Abeche;Chad;13.847000122070312;20.84429931640625
+MQQ;Moundou Airport;Moundou;Chad;8.624409675598145;16.071399688720703
+NDJ;N'Djamena International Airport;N'djamena;Chad;12.133700370788574;15.034000396728516
+FYT;Faya Largeau Airport;Faya-largeau;Chad;17.91710090637207;19.111099243164062
+BUQ;Joshua Mqabuko Nkomo International Airport;Bulawayo;Zimbabwe;-20.01740074157715;28.617900848388672
+BFO;Buffalo Range Airport;Chiredzi;Zimbabwe;-21.008100509643555;31.57859992980957
+VFA;Victoria Falls International Airport;Victoria Falls;Zimbabwe;-18.09589958190918;25.839000701904297
+HRE;Harare International Airport;Harare;Zimbabwe;-17.931800842285156;31.09280014038086
+KAB;Kariba International Airport;Kariba;Zimbabwe;-16.519800186157227;28.885000228881836
+MVZ;Masvingo International Airport;Masvingo;Zimbabwe;-20.055299758911133;30.859100341796875
+GWE;Thornhill Air Base;Gwert;Zimbabwe;-19.436399459838867;29.861900329589844
+WKM;Hwange National Park Airport;Hwange National Park;Zimbabwe;-18.629899978637695;27.020999908447266
+BLZ;Chileka International Airport;Blantyre;Malawi;-15.679100036621094;34.9739990234375
+KGJ;Karonga Airport;Karonga;Malawi;-9.953570365905762;33.893001556396484
+LLW;Lilongwe International Airport;Lilongwe;Malawi;-13.7894001007;33.78099823
+ZZU;Mzuzu Airport;Mzuzu;Malawi;-11.444700241088867;34.01179885864258
+MSU;Moshoeshoe I International Airport;Maseru;Lesotho;-29.462299346923828;27.552499771118164
+FIH;Ndjili International Airport;Kinshasa;Congo (Kinshasa);-4.38574981689;15.4446001053
+NLO;Ndolo Airport;Kinshasa;Congo (Kinshasa);-4.32666015625;15.327500343323
+MNB;Muanda Airport;Muanda;Congo (Kinshasa);-5.9308600425720215;12.351799964904785
+FDU;Bandundu Airport;Bandoundu;Congo (Kinshasa);-3.3113200664520264;17.38170051574707
+KKW;Kikwit Airport;Kikwit;Congo (Kinshasa);-5.035769939422607;18.785600662231445
+MDK;Mbandaka Airport;Mbandaka;Congo (Kinshasa);0.0226000007242;18.2887001038
+BDT;Gbadolite Airport;Gbadolite;Congo (Kinshasa);4.253210067749023;20.975299835205078
+GMA;Gemena Airport;Gemena;Congo (Kinshasa);3.2353699207299997;19.771299362199997
+LIQ;Lisala Airport;Lisala;Congo (Kinshasa);2.1706600189208984;21.49690055847168
+FKI;Bangoka International Airport;Kisangani;Congo (Kinshasa);0.481638997793;25.3379993439
+IRP;Matari Airport;Isiro;Congo (Kinshasa);2.8276100158691406;27.588300704956055
+BUX;Bunia Airport;Bunia;Congo (Kinshasa);1.5657199621200562;30.220800399780273
+BKY;Bukavu Kavumu Airport;Bukavu/kavumu;Congo (Kinshasa);-2.3089799880981445;28.808799743652344
+GOM;Goma International Airport;Goma;Congo (Kinshasa);-1.6708099842071533;29.238500595092773
+KND;Kindu Airport;Kindu;Congo (Kinshasa);-2.91917991638;25.915399551399997
+FBM;Lubumbashi International Airport;Lubumashi;Congo (Kinshasa);-11.5913000107;27.5308990479
+KWZ;Kolwezi Airport;Kolwezi;Congo (Kinshasa);-10.765899658203125;25.505699157714844
+FMI;Kalemie Airport;Kalemie;Congo (Kinshasa);-5.8755598068237305;29.25
+KMN;Kamina Base Airport;Kamina Base;Congo (Kinshasa);-8.642020225524902;25.252899169921875
+KGA;Kananga Airport;Kananga;Congo (Kinshasa);-5.90005016327;22.4692001343
+MJM;Mbuji Mayi Airport;Mbuji-mayi;Congo (Kinshasa);-6.121240139010001;23.569000244099996
+BKO;Senou Airport;Bamako;Mali;12.533499717712402;-7.949940204620361
+GAQ;Gao Airport;Gao;Mali;16.24839973449707;-0.005456000100821257
+KYS;Kayes Dag Dag Airport;Kayes;Mali;14.481200218200684;-11.404399871826172
+MZI;Mopti Airport;Mopti;Mali;14.5128002167;-4.0795598030099995
+TOM;Timbuktu Airport;Tombouctou;Mali;16.730499267578125;-3.007580041885376
+BJL;Banjul International Airport;Banjul;Gambia;13.338000297546387;-16.65220069885254
+FUE;Fuerteventura Airport;Fuerteventura;Spain;28.452699661254883;-13.863800048828125
+VDE;Hierro Airport;Hierro;Spain;27.814800262451172;-17.887100219726562
+SPC;La Palma Airport;Santa Cruz De La Palma;Spain;28.62649917602539;-17.755599975585938
+LPA;Gran Canaria Airport;Gran Canaria;Spain;27.931900024414062;-15.38659954071045
+ACE;Lanzarote Airport;Arrecife;Spain;28.945499420166016;-13.605199813842773
+TFS;Tenerife South Airport;Tenerife;Spain;28.044500351;-16.5725002289
+TFN;Tenerife Norte Airport;Tenerife;Spain;28.4827003479;-16.3414993286
+MLN;Melilla Airport;Melilla;Spain;35.279800415;-2.9562599659
+FNA;Lungi International Airport;Freetown;Sierra Leone;8.616439819335938;-13.195500373840332
+MLW;Spriggs Payne Airport;Monrovia;Liberia;6.289060115814209;-10.758700370788574
+ROB;Roberts International Airport;Monrovia;Liberia;6.233789920806885;-10.362299919128418
+AGA;Al Massira Airport;Agadir;Morocco;30.325000762939453;-9.413069725036621
+TTA;Tan Tan Airport;Tan Tan;Morocco;28.448200225830078;-11.161299705505371
+FEZ;Saïss Airport;Fes;Morocco;33.9272994995;-4.977960109709999
+ERH;Moulay Ali Cherif Airport;Er-rachidia;Morocco;31.9475002289;-4.39833021164
+MEK;Bassatine Airport;Meknes;Morocco;33.87910079956055;-5.515120029449463
+OUD;Angads Airport;Oujda;Morocco;34.787200927734375;-1.92399001121521
+RBA;Rabat-Salé Airport;Rabat;Morocco;34.05149841308594;-6.751520156860352
+CMN;Mohammed V International Airport;Casablanca;Morocco;33.36750030517578;-7.589970111846924
+RAK;Menara Airport;Marrakech;Morocco;31.606899261499997;-8.03629970551
+NNA;Kenitra Airport;Kentira;Morocco;34.29890060424805;-6.595880031585693
+OZZ;Ouarzazate Airport;Ouarzazate;Morocco;30.9391002655;-6.909430027010001
+AHU;Cherif Al Idrissi Airport;Al Hociema;Morocco;35.177101135253906;-3.83951997756958
+TTU;Saniat R'mel Airport;Tetouan;Morocco;35.594299316406;-5.320020198822
+TNG;Ibn Batouta Airport;Tanger;Morocco;35.726898193400004;-5.91689014435
+ZIG;Ziguinchor Airport;Ziguinchor;Senegal;12.5556;-16.281799
+CSK;Cap Skirring Airport;Cap Skiring;Senegal;12.410200119018555;-16.7460994720459
+KLC;Kaolack Airport;Kaolack;Senegal;14.146900177001953;-16.051300048828125
+DKR;Léopold Sédar Senghor International Airport;Dakar;Senegal;14.739700317382812;-17.49020004272461
+XLS;Saint Louis Airport;St. Louis;Senegal;16.050800323486328;-16.463199615478516
+BXE;Bakel Airport;Bakel;Senegal;14.847299575805664;-12.468299865722656
+KGG;Kédougou Airport;Kedougou;Senegal;12.57229995727539;-12.22029972076416
+TUD;Tambacounda Airport;Tambacounda;Senegal;13.736800193786621;-13.65310001373291
+IEO;Aioun el Atrouss Airport;Aioun El Atrouss;Mauritania;16.711299896240234;-9.637880325317383
+TIY;Tidjikja Airport;Tidjikja;Mauritania;18.570100784301758;-11.423500061035156
+KFA;Kiffa Airport;Kiffa;Mauritania;16.59000015258789;-11.406200408935547
+EMN;Néma Airport;Nema;Mauritania;16.621999740600586;-7.3165998458862305
+KED;Kaédi Airport;Kaedi;Mauritania;16.159500122070312;-13.507599830627441
+NKC;Nouakchott International Airport;Nouakschott;Mauritania;18.09819984436035;-15.94849967956543
+SEY;Sélibaby Airport;Selibabi;Mauritania;15.179699897766113;-12.207300186157227
+ATR;Atar International Airport;Atar;Mauritania;20.506799697875977;-13.04319953918457
+NDB;Nouadhibou International Airport;Nouadhibou;Mauritania;20.9330997467041;-17.030000686645508
+FIG;Fria Airport;Fira;Guinea;10.350600242615;-13.569199562073
+FAA;Faranah Airport;Faranah;Guinea;10.0354995728;-10.7698001862
+LEK;Tata Airport;Labe;Guinea;11.326100349426;-12.286800384521
+SID;Amílcar Cabral International Airport;Amilcar Cabral;Cape Verde;16.74139976501465;-22.949399948120117
+BVC;Rabil Airport;Boa Vista;Cape Verde;16.136499404907227;-22.888900756835938
+MMO;Maio Airport;Maio;Cape Verde;15.155900001525879;-23.213699340820312
+SNE;Preguiça Airport;Sao Nocolau Island;Cape Verde;16.58839988708496;-24.284700393676758
+VXE;São Pedro Airport;Sao Vicente Island;Cape Verde;16.833200454711914;-25.055299758911133
+ADD;Addis Ababa Bole International Airport;Addis Ababa;Ethiopia;8.97789001465;38.799301147499996
+AMH;Arba Minch Airport;Arba Minch;Ethiopia;6.0393900871276855;37.59049987792969
+AXU;Axum Airport;Axum;Ethiopia;14.14680004119873;38.77280044555664
+BJR;Bahir Dar Airport;Bahar Dar;Ethiopia;11.608099937438965;37.32160186767578
+DIR;Aba Tenna Dejazmach Yilma International Airport;Dire Dawa;Ethiopia;9.624699592590332;41.85419845581055
+GMB;Gambella Airport;Gambella;Ethiopia;8.12876033782959;34.5630989074707
+GDQ;Gonder Airport;Gondar;Ethiopia;12.51990032196045;37.433998107910156
+JIM;Jimma Airport;Jimma;Ethiopia;7.66609001159668;36.81660079956055
+LLI;Lalibella Airport;Lalibella;Ethiopia;11.975000381469727;38.97999954223633
+MQX;Mekele Airport;Makale;Ethiopia;13.467399597167969;39.53350067138672
+ASO;Asosa Airport;Asosa;Ethiopia;10.018500328063965;34.586299896240234
+BJM;Bujumbura International Airport;Bujumbura;Burundi;-3.3240199089050293;29.318500518798828
+HGA;Egal International Airport;Hargeisa;Somalia;9.518170356750488;44.08879852294922
+BBO;Berbera Airport;Berbera;Somalia;10.389200210571289;44.94110107421875
+KMU;Kisimayu Airport;Kismayu;Somalia;-0.3773530125617981;42.45920181274414
+ALY;El Nouzha Airport;Alexandria;Egypt;31.183900833129883;29.94890022277832
+ABS;Abu Simbel Airport;Abu Simbel;Egypt;22.375999450699997;31.611700058
+CAI;Cairo International Airport;Cairo;Egypt;30.12190055847168;31.40559959411621
+HRG;Hurghada International Airport;Hurghada;Egypt;27.178300857543945;33.799400329589844
+EGR;El Gora Airport;El Gorah;Egypt;31.068559;34.129629
+LXR;Luxor International Airport;Luxor;Egypt;25.670999527;32.706600189199996
+MUH;Mersa Matruh Airport;Mersa-matruh;Egypt;31.3253993988;27.221700668300002
+PSD;Port Said Airport;Port Said;Egypt;31.279399871826172;32.2400016784668
+SKV;St Catherine International Airport;St. Catherine;Egypt;28.685300827;34.0625
+ASW;Aswan International Airport;Aswan;Egypt;23.9643993378;32.8199996948
+ELT;El Tor Airport;El-tor;Egypt;28.208999633789062;33.64550018310547
+EDL;Eldoret International Airport;Eldoret;Kenya;0.4044579863548279;35.23889923095703
+KIS;Kisumu Airport;Kisumu;Kenya;-0.0861390009522438;34.72890090942383
+KTL;Kitale Airport;Kitale;Kenya;0.9719889760017395;34.95859909057617
+LOK;Lodwar Airport;Lodwar;Kenya;3.1219699382781982;35.608699798583984
+LAU;Manda Airstrip;Lamu;Kenya;-2.252419948577881;40.91310119628906
+MBA;Mombasa Moi International Airport;Mombasa;Kenya;-4.034830093383789;39.594200134277344
+WIL;Nairobi Wilson Airport;Nairobi;Kenya;-1.321720004081726;36.81480026245117
+WJR;Wajir Airport;Wajir;Kenya;1.733240008354187;40.09159851074219
+GHT;Ghat Airport;Ghat;Libya;25.1455993652;10.142600059500001
+AKF;Kufra Airport;Kufra;Libya;24.178699493408203;23.31399917602539
+BEN;Benina International Airport;Benghazi;Libya;32.096801757799994;20.2695007324
+SEB;Sabha Airport;Sebha;Libya;26.98699951171875;14.47249984741211
+TIP;Tripoli International Airport;Tripoli;Libya;32.6635017395;13.1590003967
+LTD;Ghadames East Airport;Ghadames;Libya;30.15169906616211;9.715310096740723
+GYI;Gisenyi Airport;Gisenyi;Rwanda;-1.6771999597549438;29.258899688720703
+KGL;Kigali International Airport;Kigali;Rwanda;-1.9686299562499998;30.1394996643
+KME;Kamembe Airport;Kamembe;Rwanda;-2.462239980697632;28.907899856567383
+DOG;Dongola Airport;Dongola;Sudan;19.153900146499996;30.430099487299998
+ELF;El Fasher Airport;El Fasher;Sudan;13.614899635314941;25.324600219726562
+KSL;Kassala Airport;Kassala;Sudan;15.387499809265137;36.328800201416016
+EBD;El Obeid Airport;El Obeid;Sudan;13.153200149536133;30.23270034790039
+JUB;Juba International Airport;Juba;South Sudan;4.87201023102;31.6011009216
+MAK;Malakal Airport;Malakal;Sudan;9.55897045135498;31.65220069885254
+KRT;Khartoum International Airport;Khartoum;Sudan;15.589500427246094;32.553199768066406
+ARK;Arusha Airport;Arusha;Tanzania;-3.3677899837493896;36.63330078125
+DAR;Julius Nyerere International Airport;Dar Es Salaam;Tanzania;-6.87810993195;39.202598571799996
+DOD;Dodoma Airport;Dodoma;Tanzania;-6.170440196990967;35.752601623535156
+IRI;Iringa Airport;Iringa;Tanzania;-7.668630123138428;35.75210189819336
+JRO;Kilimanjaro International Airport;Kilimanjaro;Tanzania;-3.42940998077;37.0745010376
+LKY;Lake Manyara Airport;Lake Manyara;Tanzania;-3.376310110092163;35.81829833984375
+MYW;Mtwara Airport;Mtwara;Tanzania;-10.339099884033203;40.181800842285156
+MWZ;Mwanza Airport;Mwanza;Tanzania;-2.4444899559020996;32.932701110839844
+PMA;Pemba Airport;Pemba;Tanzania;-5.257259845733643;39.8114013671875
+TGT;Tanga Airport;Tanga;Tanzania;-5.092360019683838;39.07120132446289
+ZNZ;Abeid Amani Karume International Airport;Zanzibar;Tanzania;-6.222020149229999;39.224899292
+EBB;Entebbe International Airport;Entebbe;Uganda;0.042385999113321304;32.44350051879883
+SRT;Soroti Airport;Soroti;Uganda;1.7276899814605713;33.622798919677734
+TIA;Tirana International Airport Mother Teresa;Tirana;Albania;41.4146995544;19.7206001282
+BOJ;Burgas Airport;Bourgas;Bulgaria;42.56959915161133;27.515199661254883
+GOZ;Gorna Oryahovitsa Airport;Gorna Orechovica;Bulgaria;43.15140151977539;25.712900161743164
+PDV;Plovdiv International Airport;Plovdiv;Bulgaria;42.067799;24.8508
+SOF;Sofia Airport;Sofia;Bulgaria;42.696693420410156;23.411436080932617
+VAR;Varna Airport;Varna;Bulgaria;43.232101;27.8251
+LCA;Larnaca International Airport;Larnaca;Cyprus;34.875099182128906;33.624900817871094
+PFO;Paphos International Airport;Paphos;Cyprus;34.71799850463867;32.48569869995117
+AKT;RAF Akrotiri;Akrotiri;Cyprus;34.590401;32.9879
+DBV;Dubrovnik Airport;Dubrovnik;Croatia;42.5614013671875;18.268199920654297
+OSI;Osijek Airport;Osijek;Croatia;45.46269989013672;18.810199737548828
+PUY;Pula Airport;Pula;Croatia;44.89350128173828;13.922200202941895
+RJK;Rijeka Airport;Rijeka;Croatia;45.21689987182617;14.570300102233887
+SPU;Split Airport;Split;Croatia;43.53889846801758;16.29800033569336
+ZAG;Zagreb Airport;Zagreb;Croatia;45.7429008484;16.0687999725
+ZAD;Zemunik Airport;Zadar;Croatia;44.108299255371094;15.346699714660645
+ALC;Alicante International Airport;Alicante;Spain;38.28219985961914;-0.5581560134887695
+LEI;Almería International Airport;Almeria;Spain;36.84389877319336;-2.3701000213623047
+OVD;Asturias Airport;Aviles;Spain;43.5635986328125;-6.0346198081970215
+ODB;Córdoba Airport;Cordoba;Spain;37.84199905395508;-4.848879814147949
+BIO;Bilbao Airport;Bilbao;Spain;43.30110168457031;-2.9106099605560303
+BCN;Barcelona International Airport;Barcelona;Spain;41.297100067139;2.0784599781036
+BJZ;Badajoz Airport;Badajoz;Spain;38.891300201416016;-6.8213300704956055
+LCG;A Coruña Airport;La Coruna;Spain;43.302101135253906;-8.377260208129883
+GRO;Girona Airport;Gerona;Spain;41.901000977;2.7605500221
+GRX;Federico Garcia Lorca Airport;Granada;Spain;37.18870162963867;-3.777359962463379
+IBZ;Ibiza Airport;Ibiza;Spain;38.872898101800004;1.3731199502899998
+XRY;Jerez Airport;Jerez;Spain;36.744598388671875;-6.060110092163086
+MJV;San Javier Airport;Murcia;Spain;37.775001525878906;-0.8123890161514282
+MAD;Adolfo Suárez Madrid–Barajas Airport;Madrid;Spain;40.471926;-3.56264
+AGP;Málaga Airport;Malaga;Spain;36.67490005493164;-4.499110221862793
+MAH;Menorca Airport;Menorca;Spain;39.86259841918945;4.218649864196777
+OZP;Moron Air Base;Sevilla;Spain;37.17490005493164;-5.615940093994141
+PNA;Pamplona Airport;Pamplona;Spain;42.77000045776367;-1.6463299989700317
+REU;Reus Air Base;Reus;Spain;41.14739990234375;1.1671700477600098
+SLM;Salamanca Airport;Salamanca;Spain;40.95209884643555;-5.501989841461182
+EAS;San Sebastian Airport;San Sebastian;Spain;43.35649871826172;-1.7906099557876587
+SCQ;Santiago de Compostela Airport;Santiago;Spain;42.89630126953125;-8.415140151977539
+LEU;Pirineus - la Seu d'Urgel Airport;Seo De Urgel;Spain;42.3386;1.40917
+TOJ;Torrejón Airport;Madrid;Spain;40.496700286865234;-3.4458699226379395
+VLC;Valencia Airport;Valencia;Spain;39.48929977416992;-0.4816249907016754
+VLL;Valladolid Airport;Valladolid;Spain;41.7061004639;-4.85194015503
+VIT;Vitoria/Foronda Airport;Vitoria;Spain;42.8828010559082;-2.7244699001312256
+VGO;Vigo Airport;Vigo;Spain;42.2318000793457;-8.62677001953125
+SDR;Santander Airport;Santander;Spain;43.427101135253906;-3.82000994682312
+ZAZ;Zaragoza Air Base;Zaragoza;Spain;41.66619873046875;-1.0415500402450562
+SVQ;Sevilla Airport;Sevilla;Spain;37.417999267578125;-5.8931097984313965
+CQF;Calais-Dunkerque Airport;Calais;France;50.962100982666016;1.954759955406189
+LTQ;Le Touquet-Côte d'Opale Airport;Le Tourquet;France;50.517398834228516;1.6205899715423584
+AGF;Agen-La Garenne Airport;Agen;France;44.17470169067383;0.5905560255050659
+BOD;Bordeaux-Mérignac Airport;Bordeaux;France;44.828300476100004;-0.715556025505
+EGC;Bergerac-Roumanière Airport;Bergerac;France;44.82529830932617;0.5186110138893127
+CNG;Cognac-Châteaubernard (BA 709) Air Base;Cognac;France;45.65829849243164;-0.3174999952316284
+PIS;Poitiers-Biard Airport;Poitiers;France;46.58769989013672;0.30666598677635193
+MCU;Montluçon-Guéret Airport;Montlucon-gueret;France;46.222599029541016;2.363960027694702
+LIG;Limoges Airport;Limoges;France;45.86280059814453;1.1794400215148926
+NIT;Niort-Souché Airport;Niort;France;46.313477;-0.394529
+TLS;Toulouse-Blagnac Airport;Toulouse;France;43.629101;1.36382
+PUF;Pau Pyrénées Airport;Pau;France;43.380001068115234;-0.41861099004745483
+LDE;Tarbes-Lourdes-Pyrénées Airport;Tarbes;France;43.1786994934082;-0.006438999902456999
+ANG;Angoulême-Brie-Champniers Airport;Angouleme;France;45.72919845581055;0.22145600616931915
+BVE;Toul Rosières Air Base;Brive;France;48.780001;5.980003
+PGX;Périgueux-Bassillac Airport;Perigueux;France;45.19810104370117;0.815555989742279
+BIQ;Biarritz-Anglet-Bayonne Airport;Biarritz-bayonne;France;43.4683333;-1.5311111
+XAC;Arcachon-La Teste-de-Buch Airport;Arcachon;France;44.596401;-1.11083
+LBI;Albi-Le Séquestre Airport;Albi;France;43.91389846801758;2.1130599975585938
+DCM;Castres-Mazamet Airport;Castres;France;43.55630111694336;2.289180040359497
+RDZ;Rodez-Marcillac Airport;Rodez;France;44.407901763916016;2.4826700687408447
+RYN;Royan-Médis Airport;Royan;France;45.62810134887695;-0.9725000262260437
+RCO;Rochefort-Saint-Agnant (BA 721) Airport;Rochefort;France;45.88779830932617;-0.9830560088157654
+CMR;Colmar-Houssen Airport;Colmar;France;48.109901428222656;7.359010219573975
+DLE;Dole-Tavaux Airport;Dole;France;47.042686;5.435061
+OBS;Aubenas-Ardèche Méridional Airport;Aubenas-vals-lanas;France;44.5442008972;4.37218999863
+LPY;Le Puy-Loudes Airport;Le Puy;France;45.0806999206543;3.762890100479126
+XBK;Bourg-Ceyzériat Airport;Bourg;France;46.20090103149414;5.292029857635498
+XVF;Villefranche-Tarare Airport;Vilefrance;France;45.919983;4.634931
+XMU;Moulins-Montbeugny Airport;Moulins;France;46.53459930419922;3.423719882965088
+ETZ;Metz-Nancy-Lorraine Airport;Metz;France;48.9821014404;6.25131988525
+BIA;Bastia-Poretta Airport;Bastia;France;42.55270004272461;9.48373031616211
+CLY;Calvi-Sainte-Catherine Airport;Calvi;France;42.5244444;8.7930556
+FSC;Figari Sud-Corse Airport;Figari;France;41.5005989074707;9.097780227661133
+AJA;Ajaccio-Napoléon Bonaparte Airport;Ajaccio;France;41.92359924316406;8.8029203414917
+SOZ;Solenzara (BA 126) Air Base;Solenzara;France;41.924400329589844;9.406000137329102
+AUF;Auxerre-Branches Airport;Auxerre;France;47.85020065307617;3.497109889984131
+CMF;Chambéry-Savoie Airport;Chambery;France;45.638099670410156;5.880229949951172
+CFE;Clermont-Ferrand Auvergne Airport;Clermont-Ferrand;France;45.7867012024;3.1691699028
+BOU;Bourges Airport;Bourges;France;47.058101654052734;2.3702800273895264
+XCD;Chalon-Champforgeuil Airport;Chalon;France;46.82609939575195;4.817629814147949
+QNJ;Annemasse Airport;Annemasse;France;46.1920013428;6.268390178680001
+LYS;Lyon Saint-Exupéry Airport;Lyon;France;45.7255556;5.0811111
+QNX;Mâcon-Charnay Airport;Macon;France;46.295101;4.79577
+RNE;Roanne-Renaison Airport;Roanne;France;46.05830001831055;4.001389980316162
+NCY;Annecy-Haute-Savoie-Mont Blanc Airport;Annecy;France;45.9308333;6.1063889
+GNB;Grenoble-Isère Airport;Grenoble;France;45.36289978027344;5.329370021820068
+VAF;Valence-Chabeuil Airport;Valence;France;44.9216;4.9699
+VHY;Vichy-Charmeil Airport;Vichy;France;46.169700622558594;3.4037399291992188
+AUR;Aurillac Airport;Aurillac;France;44.89139938354492;2.4219400882720947
+CHR;Châteauroux-Déols \"Marcel Dassault\" Airport;Chateauroux;France;46.86027778;1.7211111
+LYN;Lyon-Bron Airport;Lyon;France;45.72719955444336;4.944270133972168
+QXB;Aix-en-Provence (BA 114) Airport;Aix-les-milles;France;43.5056;5.36778
+CEQ;Cannes-Mandelieu Airport;Cannes;France;43.54199981689453;6.953479766845703
+EBU;Saint-Étienne-Bouthéon Airport;St-Etienne;France;45.54059982299805;4.296390056610107
+CCF;Carcassonne Airport;Carcassonne;France;43.215999603271484;2.3063199520111084
+MRS;Marseille Provence Airport;Marseille;France;43.439271922;5.22142410278
+NCE;Nice-Côte d'Azur Airport;Nice;France;43.6584014893;7.215869903560001
+PGF;Perpignan-Rivesaltes (Llabanère) Airport;Perpignan;France;42.74039840698242;2.8706700801849365
+CTT;Le Castellet Airport;Le Castellet;France;43.252498626708984;5.785190105438232
+MPL;Montpellier-Méditerranée Airport;Montpellier;France;43.57619857788086;3.96301007270813
+BZR;Béziers-Vias Airport;Beziers;France;43.32350158691406;3.3538999557495117
+AVN;Avignon-Caumont Airport;Avignon;France;43.90729904174805;4.901830196380615
+MEN;Mende-Brenoux Airport;Mende;France;44.50210189819336;3.532819986343384
+BVA;Paris Beauvais Tillé Airport;Beauvais;France;49.45439910888672;2.1127800941467285
+LEH;Le Havre Octeville Airport;Le Havre;France;49.53390121459961;0.08805599808692932
+ORE;Orléans-Bricy (BA 123) Air Base;Orleans;France;47.9878005981;1.7605600357100002
+XCR;Châlons-Vatry Air Base;Chalons;France;48.776100158691406;4.184490203857422
+URO;Rouen Airport;Rouen;France;49.38420104980469;1.1748000383377075
+TUF;Tours-Val-de-Loire Airport;Tours;France;47.4322013855;0.727605998516
+CET;Cholet Le Pontreau Airport;Cholet;France;47.08209991455078;-0.8770639896392822
+LVA;Laval-Entrammes Airport;Laval;France;48.03139877319336;-0.7429860234260559
+LBG;Paris-Le Bourget Airport;Paris;France;48.969398498535156;2.441390037536621
+CSF;Creil Air Base;Creil;France;49.253501892089844;2.5191400051116943
+CDG;Charles de Gaulle International Airport;Paris;France;49.0127983093;2.54999995232
+TNF;Toussus-le-Noble Airport;Toussous-le-noble;France;48.75189971923828;2.1061899662017822
+ORY;Paris-Orly Airport;Paris;France;48.7233333;2.3794444
+POX;Pontoise - Cormeilles-en-Vexin Airport;Pontoise;France;49.0966667;2.0408333
+QYR;Troyes-Barberey Airport;Troyes;France;48.32210159301758;4.01669979095459
+NVS;Nevers-Fourchambault Airport;Nevers;France;47.002601623535156;3.1133298873901367
+LIL;Lille-Lesquin Airport;Lille;France;50.563332;3.086886
+BES;Brest Bretagne Airport;Brest;France;48.447898864746094;-4.418540000915527
+CER;Cherbourg-Maupertus Airport;Cherbourg;France;49.65010070800781;-1.4702800512313843
+DNR;Dinard-Pleurtuit-Saint-Malo Airport;Dinard;France;48.58769989013672;-2.0799601078033447
+GFR;Granville Airport;Granville;France;48.88309860229492;-1.564170002937317
+DOL;Deauville-Saint-Gatien Airport;Deauville;France;49.3652992249;0.154305994511
+LRT;Lorient South Brittany (Bretagne Sud) Airport;Lorient;France;47.76060104370117;-3.440000057220459
+EDM;La Roche-sur-Yon Airport;La Roche-sur-yon;France;46.701900482177734;-1.3786300420761108
+CFR;Caen-Carpiquet Airport;Caen;France;49.173301696777344;-0.44999998807907104
+LME;Le Mans-Arnage Airport;Le Mans;France;47.94860076904297;0.20166699588298798
+RNS;Rennes-Saint-Jacques Airport;Rennes;France;48.069499969499994;-1.73478996754
+LAI;Lannion-Côte de Granit Airport;Lannion;France;48.754398345947266;-3.4716598987579346
+UIP;Quimper-Cornouaille Airport;Quimper;France;47.974998474121094;-4.167789936065674
+NTE;Nantes Atlantique Airport;Nantes;France;47.153198242200006;-1.61073005199
+SBK;Saint-Brieuc-Armor Airport;St.-brieuc Armor;France;48.5378;-2.85444
+MXN;Morlaix-Ploujean Airport;Morlaix;France;48.6031990051;-3.81577992439
+VNE;Vannes-Meucon Airport;Vannes;France;47.72330093383789;-2.718559980392456
+SNR;Saint-Nazaire-Montoir Airport;St.-nazaire;France;47.3105556;-2.1566667
+BSL;EuroAirport Basel-Mulhouse-Freiburg Airport;Mulhouse;France;47.59;7.5291667
+DIJ;Dijon-Bourgogne Airport;Dijon;France;47.268901825;5.09000015259
+MZM;Metz-Frescaty (BA 128) Air Base;Metz;France;49.07170104980469;6.131669998168945
+EPL;Épinal-Mirecourt Airport;Epinal;France;48.32500076293945;6.069980144500732
+ENC;Nancy-Essey Airport;Nancy;France;48.692100524902344;6.230460166931152
+RHE;Reims-Champagne (BA 112) Air Base;Reims;France;49.310001;4.05
+SXB;Strasbourg Airport;Strasbourg;France;48.538299560546875;7.628230094909668
+TLN;Toulon-Hyères Airport;Hyeres;France;43.0973014832;6.14602994919
+FNI;Nîmes-Arles-Camargue Airport;Nimes;France;43.75740051269531;4.4163498878479
+MQC;Miquelon Airport;Miquelon;Saint Pierre and Miquelon;47.095500946;-56.3802986145
+FSP;St Pierre Airport;St.-pierre;Saint Pierre and Miquelon;46.762901306152344;-56.173099517822266
+PYR;Andravida Air Base;Andravida;Greece;37.9207;21.292601
+AGQ;Agrinion Air Base;Agrinion;Greece;38.602001;21.3512001
+AXD;Dimokritos Airport;Alexandroupolis;Greece;40.855899810791016;25.956300735473633
+VOL;Nea Anchialos Airport;Nea Anghialos;Greece;39.219600677490234;22.794300079345703
+JKH;Chios Island National Airport;Chios;Greece;38.34320068359375;26.140600204467773
+IOA;Ioannina Airport;Ioannina;Greece;39.6963996887207;20.822500228881836
+HER;Heraklion International Nikos Kazantzakis Airport;Heraklion;Greece;35.3396987915;25.180299758900002
+KSO;Kastoria National Airport;Kastoria;Greece;40.4463005066;21.2821998596
+KIT;Kithira Airport;Kithira;Greece;36.2742996216;23.0170001984
+EFL;Kefallinia Airport;Keffallinia;Greece;38.12009811401367;20.500499725341797
+KLX;Kalamata Airport;Kalamata;Greece;37.06829833984375;22.02549934387207
+KGS;Kos Airport;Kos;Greece;36.79330062866211;27.091699600219727
+AOK;Karpathos Airport;Karpathos;Greece;35.4213981628418;27.145999908447266
+CFU;Ioannis Kapodistrias International Airport;Kerkyra/corfu;Greece;39.601898193359375;19.911699295043945
+KSJ;Kasos Airport;Kasos;Greece;35.4213981628;26.909999847399998
+KVA;Alexander the Great International Airport;Kavala;Greece;40.913299560546875;24.619199752807617
+KZI;Filippos Airport;Kozani;Greece;40.28609848022461;21.84079933166504
+LRS;Leros Airport;Leros;Greece;37.184898376499994;26.8003005981
+LXS;Limnos Airport;Limnos;Greece;39.917098999;25.236299514799995
+LRA;Larisa Airport;Larissa;Greece;39.650253;22.4655
+JMK;Mikonos Airport;Mykonos;Greece;37.43510055541992;25.348100662231445
+MJT;Mytilene International Airport;Mytilini;Greece;39.0567016602;26.5983009338
+PVK;Aktion National Airport;Preveza;Greece;38.925498962402344;20.765300750732422
+RHO;Diagoras Airport;Rhodos;Greece;36.405399322509766;28.086200714111328
+GPA;Araxos Airport;Patras;Greece;38.1511;21.4256
+CHQ;Chania International Airport;Chania;Greece;35.531700134277344;24.149700164794922
+JSI;Skiathos Island National Airport;Skiathos;Greece;39.177101135253906;23.503700256347656
+SMI;Samos Airport;Samos;Greece;37.689998626708984;26.911699295043945
+JTR;Santorini Airport;Thira;Greece;36.399200439453125;25.479299545288086
+JSH;Sitia Airport;Sitia;Greece;35.21609878540039;26.101299285888672
+SKU;Skiros Airport;Skiros;Greece;38.9676017761;24.4871997833
+SKG;Thessaloniki Macedonia International Airport;Thessaloniki;Greece;40.51969909667969;22.97089958190918
+ZTH;Dionysios Solomos Airport;Zakynthos;Greece;37.75090026855469;20.884300231933594
+BUD;Budapest Ferenc Liszt International Airport;Budapest;Hungary;47.436901092499994;19.255599975599996
+DEB;Debrecen International Airport;Debrecen;Hungary;47.48889923095703;21.615299224853516
+CRV;Crotone Airport;Crotone;Italy;38.9972;17.0802
+BRI;Bari Karol Wojtyła Airport;Bari;Italy;41.138901;16.760599
+FOG;Foggia \"Gino Lisa\" Airport;Foggia;Italy;41.432899;15.535
+TAR;Taranto-Grottaglie \"Marcello Arlotta\" Airport;Grottaglie;Italy;40.517502;17.4032
+LCC;Lecce Galatina Air Base;Lecce;Italy;40.239201;18.133301
+PSR;Pescara International Airport;Pescara;Italy;42.431702;14.1811
+BDS;Brindisi – Salento Airport;Brindisi;Italy;40.6576;17.947001
+SUF;Lamezia Terme Airport;Lamezia;Italy;38.905399;16.2423
+CTA;Catania-Fontanarossa Airport;Catania;Italy;37.466801;15.0664
+LMP;Lampedusa Airport;Lampedusa;Italy;35.497898;12.6181
+PNL;Pantelleria Airport;Pantelleria;Italy;36.816502;11.9689
+PMO;Falcone–Borsellino Airport;Palermo;Italy;38.175999;13.091
+REG;Reggio Calabria Airport;Reggio Calabria;Italy;38.071201;15.6516
+TPS;Vincenzo Florio Airport Trapani-Birgi;Trapani;Italy;37.9114;12.488
+NSY;Sigonella Navy Air Base;Sigonella;Italy;37.401699;14.9224
+AHO;Alghero-Fertilia Airport;Alghero;Italy;40.632099;8.29077
+DCI;Decimomannu Air Base;Decimomannu;Italy;39.354198;8.97248
+CAG;Cagliari Elmas Airport;Cagliari;Italy;39.251499;9.05428
+OLB;Olbia Costa Smeralda Airport;Olbia;Italy;40.898701;9.51763
+TTB;Tortolì Airport;Tortoli;Italy;39.9188;9.68298
+MXP;Malpensa International Airport;Milano;Italy;45.6306;8.72811
+BGY;Il Caravaggio International Airport;Bergamo;Italy;45.673901;9.70417
+TRN;Turin Airport;Torino;Italy;45.200802;7.64963
+ALL;Villanova D'Albenga International Airport;Albenga;Italy;44.050598;8.12743
+GOA;Genoa Cristoforo Colombo Airport;Genoa;Italy;44.4133;8.8375
+LIN;Milano Linate Airport;Milan;Italy;45.445099;9.27674
+PMF;Parma Airport;Parma;Italy;44.824501;10.2964
+QPZ;Piacenza San Damiano Air Base;Piacenza;Italy;44.913101;9.723323
+CUF;Cuneo International Airport;Cuneo;Italy;44.547001;7.62322
+AVB;Aviano Air Base;Aviano;Italy;46.031898;12.596503
+BZO;Bolzano Airport;Bolzano;Italy;46.460201;11.3264
+BLQ;Bologna Guglielmo Marconi Airport;Bologna;Italy;44.5354;11.2887
+TSF;Treviso-Sant'Angelo Airport;Treviso;Italy;45.648399;12.1944
+FRL;Forlì Airport;Forli;Italy;44.194801;12.0701
+VBS;Brescia Airport;Brescia;Italy;45.428902;10.3306
+TRS;Trieste–Friuli Venezia Giulia Airport;Ronchi De Legionari;Italy;45.827499;13.4722
+RMI;Federico Fellini International Airport;Rimini;Italy;44.020302;12.6117
+VIC;Vicenza Airport;Vicenza;Italy;45.573399;11.5295
+QPA;Padova Airport;Padova;Italy;45.395802;11.8479
+VRN;Verona Villafranca Airport;Villafranca;Italy;45.395699;10.8885
+VCE;Venice Marco Polo Airport;Venice;Italy;45.505299;12.3519
+SAY;Siena-Ampugnano Airport;Siena;Italy;43.256302;11.255
+CIA;Ciampino–G. B. Pastine International Airport;Rome;Italy;41.7994;12.5949
+FCO;Leonardo da Vinci–Fiumicino Airport;Rome;Italy;41.8002778;12.2388889
+EBA;Marina Di Campo Airport;Marina Di Campo;Italy;42.7603;10.2394
+QLT;Latina Air Base;Latina;Italy;41.5424;12.909
+NAP;Naples International Airport;Naples;Italy;40.886002;14.2908
+PSA;Pisa International Airport;Pisa;Italy;43.683899;10.3927
+FLR;Peretola Airport;Florence;Italy;43.810001;11.2051
+GRS;Grosseto Air Base;Grosseto;Italy;42.759701;11.0719
+PEG;Perugia San Francesco d'Assisi – Umbria International Airport;Perugia;Italy;43.095901;12.5132
+LJU;Ljubljana Jože Pučnik Airport;Ljubljana;Slovenia;46.223701;14.4576
+MBX;Maribor Airport;Maribor;Slovenia;46.47990036010742;15.686100006103516
+POW;Portoroz Airport;Portoroz;Slovenia;45.4734001159668;13.614999771118164
+KLV;Karlovy Vary International Airport;Karlovy Vary;Czech Republic;50.202999114990234;12.914999961853027
+OSR;Ostrava Leos Janáček Airport;Ostrava;Czech Republic;49.6963005065918;18.111099243164062
+PED;Pardubice Airport;Pardubice;Czech Republic;50.01340103149414;15.73859977722168
+PRV;Přerov Air Base;Prerov;Czech Republic;49.42580032348633;17.404699325561523
+PRG;Václav Havel Airport Prague;Prague;Czech Republic;50.1008;14.26
+BRQ;Brno-Tuřany Airport;Brno;Czech Republic;49.15129852294922;16.694400787353516
+TLV;Ben Gurion International Airport;Tel-aviv;Israel;32.01139831542969;34.88669967651367
+BEV;Beersheba (Teyman) Airport;Beer-sheba;Israel;31.287000656128;34.722999572754
+ETH;Eilat Airport;Elat;Israel;29.56130027770996;34.96009826660156
+HFA;Haifa International Airport;Haifa;Israel;32.80939865112305;35.04309844970703
+RPN;Ben Ya'akov Airport;Rosh Pina;Israel;32.98099899291992;35.5718994140625
+VDA;Ovda International Airport;Ovda;Israel;29.94029998779297;34.93579864501953
+SDV;Sde Dov Airport;Tel-aviv;Israel;32.11470031738281;34.78219985961914
+MLA;Malta International Airport;Malta;Malta;35.857498;14.4775
+GRZ;Graz Airport;Graz;Austria;46.9911003112793;15.439599990844727
+INN;Innsbruck Airport;Innsbruck;Austria;47.260201;11.344
+LNZ;Linz Hörsching Airport;Linz;Austria;48.2332;14.1875
+SZG;Salzburg Airport;Salzburg;Austria;47.793300628699996;13.0043001175
+VIE;Vienna International Airport;Vienna;Austria;48.110298156738;16.569700241089
+SMA;Santa Maria Airport;Santa Maria (island);Portugal;36.97140121459961;-25.17060089111328
+BGC;Bragança Airport;Braganca;Portugal;41.85779953;-6.70712995529
+FLW;Flores Airport;Flores;Portugal;39.455299377441406;-31.131399154663086
+FAO;Faro Airport;Faro;Portugal;37.0144004822;-7.96590995789
+GRW;Graciosa Airport;Graciosa Island;Portugal;39.092201232910156;-28.029800415039062
+HOR;Horta Airport;Horta;Portugal;38.519901275634766;-28.715900421142578
+TER;Lajes Field;Lajes (terceira Island);Portugal;38.761798858599995;-27.090799331699998
+PDL;João Paulo II Airport;Ponta Delgada;Portugal;37.7411994934;-25.6979007721
+PIX;Pico Airport;Pico;Portugal;38.554298400878906;-28.441299438476562
+OPO;Francisco de Sá Carneiro Airport;Porto;Portugal;41.2481002808;-8.68138980865
+PXO;Porto Santo Airport;Porto Santo;Portugal;33.0733985901;-16.3500003815
+LIS;Lisbon Portela Airport;Lisbon;Portugal;38.7812995911;-9.13591957092
+SJZ;São Jorge Airport;Sao Jorge Island;Portugal;38.66550064086914;-28.175800323486328
+VRL;Vila Real Airport;Vila Real;Portugal;41.27429962158203;-7.720469951629639
+OMO;Mostar International Airport;Mostar;Bosnia and Herzegovina;43.282901763916016;17.84589958190918
+SJJ;Sarajevo International Airport;Sarajevo;Bosnia and Herzegovina;43.82460021972656;18.331499099731445
+ARW;Arad International Airport;Arad;Romania;46.17660140991211;21.261999130249023
+BCM;Bacău Airport;Bacau;Romania;46.52190017700195;26.91029930114746
+BAY;Tautii Magheraus Airport;Baia Mare;Romania;47.65840148925781;23.469999313354492
+BBU;Băneasa International Airport;Bucharest;Romania;44.50320053100586;26.102100372314453
+CND;Mihail Kogălniceanu International Airport;Constanta;Romania;44.36220169067383;28.488300323486328
+CLJ;Cluj-Napoca International Airport;Cluj-napoca;Romania;46.78519821166992;23.686199188232422
+CSB;Caransebeş Airport;Caransebes;Romania;45.41999816894531;22.253299713134766
+CRA;Craiova Airport;Craiova;Romania;44.31809997558594;23.888599395751953
+IAS;Iaşi Airport;Iasi;Romania;47.17850112915039;27.6205997467041
+OMR;Oradea International Airport;Oradea;Romania;47.025299072265625;21.90250015258789
+OTP;Henri Coandă International Airport;Bucharest;Romania;44.5711111;26.085
+SBZ;Sibiu International Airport;Sibiu;Romania;45.78559875488281;24.091299057006836
+SUJ;Satu Mare Airport;Satu Mare;Romania;47.70330047607422;22.885700225830078
+SCV;Suceava Stefan cel Mare Airport;Suceava;Romania;47.6875;26.35409927368164
+TCE;Tulcea Airport;Tulcea;Romania;45.0625;28.71430015563965
+TGM;Transilvania Târgu Mureş International Airport;Tirgu Mures;Romania;46.46770095825195;24.412500381469727
+TSR;Timişoara Traian Vuia Airport;Timisoara;Romania;45.809898376464844;21.337900161743164
+GVA;Geneva Cointrin International Airport;Geneva;Switzerland;46.23809814453125;6.108950138092041
+SIR;Sion Airport;Sion;Switzerland;46.219600677500004;7.326759815220001
+EML;Emmen Air Base;Emmen;Switzerland;47.092444;8.305184
+LUG;Lugano Airport;Lugano;Switzerland;46.00429916379999;8.9105796814
+BRN;Bern Belp Airport;Bern;Switzerland;46.914100647;7.497149944309999
+ZRH;Zürich Airport;Zurich;Switzerland;47.464698791504;8.5491695404053
+ACH;St Gallen Altenrhein Airport;Altenrhein;Switzerland;47.4850006104;9.560770034789998
+SMV;Samedan Airport;Samedan;Switzerland;46.53409957885742;9.884110450744629
+ESB;Esenboğa International Airport;Ankara;Turkey;40.128101348899996;32.995098114
+ANK;Etimesgut Air Base;Ankara;Turkey;39.949798584;32.6885986328
+ADA;Adana Airport;Adana;Turkey;36.9822006226;35.280399322499996
+UAB;İncirlik Air Base;Adana;Turkey;37.002101898199996;35.4258995056
+AFY;Afyon Airport;Afyon;Turkey;38.726398468;30.6011009216
+AYT;Antalya International Airport;Antalya;Turkey;36.898701;30.800501
+GZT;Gaziantep International Airport;Gaziantep;Turkey;36.9472007751;37.4786987305
+KYA;Konya Airport;Konya;Turkey;37.979;32.561901
+MLX;Malatya Tulga Airport;Malatya;Turkey;38.353699;38.253899
+MZH;Amasya Merzifon Airport;Merzifon;Turkey;40.829399;35.521999
+VAS;Sivas Nuri Demirağ Airport;Sivas;Turkey;39.813801;36.9035
+ASR;Kayseri Erkilet Airport;Kayseri;Turkey;38.770401001;35.4953994751
+DNZ;Çardak Airport;Denizli;Turkey;37.7855987549;29.7012996674
+IST;Atatürk International Airport;Istanbul;Turkey;40.9768981934;28.814599990799998
+BZI;Balıkesir Merkez Airport;Balikesir;Turkey;39.619300842285156;27.926000595092773
+BDM;Bandırma Airport;Bandirma;Turkey;40.31800079345703;27.977699279785156
+ESK;Eskişehir Air Base;Eskisehir;Turkey;39.7840995789;30.582099914599997
+ADB;Adnan Menderes International Airport;Izmir;Turkey;38.2924003601;27.156999588
+IGL;Çiğli Airport;Izmir;Turkey;38.513000488299994;27.010099411
+DLM;Dalaman International Airport;Dalaman;Turkey;36.7131004333;28.7924995422
+BXN;Imsık Airport;Bodrum;Turkey;37.140098571777344;27.669700622558594
+EZS;Elazığ Airport;Elazig;Turkey;38.6068992615;39.2914009094
+DIY;Diyarbakir Airport;Diyabakir;Turkey;37.893901825;40.201000213600004
+ERC;Erzincan Airport;Erzincan;Turkey;39.7102012634;39.527000427199994
+ERZ;Erzurum International Airport;Erzurum;Turkey;39.9565010071;41.17020034789999
+TZX;Trabzon International Airport;Trabzon;Turkey;40.99509811401367;39.78969955444336
+VAN;Van Ferit Melen Airport;Van;Turkey;38.46820068359375;43.332298278808594
+BAL;Batman Airport;Batman;Turkey;37.929000854499996;41.1166000366
+BZY;Balti International Airport;Saltsy;Moldova;47.83810043334961;27.7814998626709
+KIV;Chişinău International Airport;Chisinau;Moldova;46.92770004272461;28.930999755859375
+OHD;Ohrid St. Paul the Apostle Airport;Ohrid;Macedonia;41.18;20.7423
+SKP;Skopje Alexander the Great Airport;Skopje;Macedonia;41.961601;21.621401
+GIB;Gibraltar Airport;Gibraltar;Gibraltar;36.1511993408;-5.3496599197400005
+BEG;Belgrade Nikola Tesla Airport;Belgrade;Serbia;44.8184013367;20.3090991974
+INI;Nis Airport;Nis;Serbia;43.337299;21.853701
+TGD;Podgorica Airport;Podgorica;Montenegro;42.35940170288086;19.25189971923828
+PRN;Priština International Airport;Pristina;Serbia;42.5728;21.035801
+TIV;Tivat Airport;Tivat;Montenegro;42.404701232910156;18.72330093383789
+BTS;M. R. Štefánik Airport;Bratislava;Slovakia;48.17020034790039;17.21269989013672
+KSC;Košice Airport;Kosice;Slovakia;48.66310119628906;21.241100311279297
+PZY;Piešťany Airport;Piestany;Slovakia;48.62519836425781;17.828399658203125
+SLD;Sliač Airport;Sliac;Slovakia;48.63779830932617;19.13409996032715
+TAT;Poprad-Tatry Airport;Poprad;Slovakia;49.073600769;20.2411003113
+NCA;North Caicos Airport;North Caicos;Turks and Caicos Islands;21.917499542236328;-71.9395980834961
+PLS;Providenciales Airport;Providenciales;Turks and Caicos Islands;21.77359962463379;-72.26589965820312
+XSC;South Caicos Airport;South Caicos;Turks and Caicos Islands;21.515699386599998;-71.528503418
+EPS;Arroyo Barril Airport;Samana;Dominican Republic;19.198600769;-69.42980194089999
+BRX;Maria Montez International Airport;Barahona;Dominican Republic;18.25149917602539;-71.12039947509766
+LRM;Casa De Campo International Airport;La Romana;Dominican Republic;18.450700759887695;-68.91179656982422
+PUJ;Punta Cana International Airport;Punta Cana;Dominican Republic;18.567399978599997;-68.36340332030001
+POP;Gregorio Luperon International Airport;Puerto Plata;Dominican Republic;19.75790023803711;-70.56999969482422
+SDQ;Las Américas International Airport;Santo Domingo;Dominican Republic;18.42970085144;-69.668899536133
+STI;Cibao International Airport;Santiago;Dominican Republic;19.406099319458008;-70.60469818115234
+CBV;Coban Airport;Coban;Guatemala;15.468999862670898;-90.40670013427734
+GUA;La Aurora Airport;Guatemala City;Guatemala;14.58329963684082;-90.52749633789062
+LCE;Goloson International Airport;La Ceiba;Honduras;15.7425;-86.852997
+SAP;Ramón Villeda Morales International Airport;San Pedro Sula;Honduras;15.45259952545166;-87.92359924316406
+GJA;La Laguna Airport;Guanaja;Honduras;16.4454;-85.906601
+RTB;Juan Manuel Galvez International Airport;Roatan;Honduras;16.316799;-86.523003
+TEA;Tela Airport;Tela;Honduras;15.7759;-87.4758
+TGU;Toncontín International Airport;Tegucigalpa;Honduras;14.06089973449707;-87.21720123291016
+OCJ;Boscobel Aerodrome;Ocho Rios;Jamaica;18.404199600219727;-76.96900177001953
+KIN;Norman Manley International Airport;Kingston;Jamaica;17.935699462890625;-76.7874984741211
+MBJ;Sangster International Airport;Montego Bay;Jamaica;18.503700256347656;-77.91339874267578
+POT;Ken Jones Airport;Port Antonio;Jamaica;18.1987991333;-76.53450012210001
+KTP;Tinson Pen Airport;Kingston;Jamaica;17.98859977722168;-76.82379913330078
+ACA;General Juan N Alvarez International Airport;Acapulco;Mexico;16.757099151611328;-99.75399780273438
+NTR;Del Norte International Airport;Monterrey;Mexico;25.8656005859375;-100.23699951171875
+AGU;Jesús Terán Paredo International Airport;Aguascalientes;Mexico;21.705601;-102.318001
+HUX;Bahías de Huatulco International Airport;Huatulco;Mexico;15.775300025939941;-96.26260375976562
+CVJ;General Mariano Matamoros Airport;Cuernavaca;Mexico;18.834800720214844;-99.26129913330078
+CME;Ciudad del Carmen International Airport;Ciudad Del Carmen;Mexico;18.65369987487793;-91.79900360107422
+CUL;Bachigualato Federal International Airport;Culiacan;Mexico;24.7644996643;-107.474998474
+CTM;Chetumal International Airport;Chetumal;Mexico;18.50469970703125;-88.32679748535156
+CEN;Ciudad Obregón International Airport;Ciudad Obregon;Mexico;27.39259910583496;-109.83300018310547
+CPE;Ingeniero Alberto Acuña Ongay International Airport;Campeche;Mexico;19.816799163800003;-90.5002975464
+CJS;Abraham González International Airport;Ciudad Juarez;Mexico;31.63610076904297;-106.42900085449219
+CUU;General Roberto Fierro Villalobos International Airport;Chihuahua;Mexico;28.702899932900003;-105.964996338
+CVM;General Pedro Jose Mendez International Airport;Ciudad Victoria;Mexico;23.7033004761;-98.9564971924
+CZM;Cozumel International Airport;Cozumel;Mexico;20.52239990234375;-86.92559814453125
+DGO;General Guadalupe Victoria International Airport;Durango;Mexico;24.1242008209;-104.527999878
+TPQ;Amado Nervo National Airport;Tepic;Mexico;21.41950035095215;-104.84300231933594
+ESE;Ensenada Airport;Ensenada;Mexico;31.795299530029297;-116.60299682617188
+GDL;Don Miguel Hidalgo Y Costilla International Airport;Guadalajara;Mexico;20.521799087524414;-103.31099700927734
+GYM;General José María Yáñez International Airport;Guaymas;Mexico;27.9689998626709;-110.92500305175781
+TCN;Tehuacan Airport;Tehuacan;Mexico;18.49720001220703;-97.4198989868164
+HMO;General Ignacio P. Garcia International Airport;Hermosillo;Mexico;29.095899581900003;-111.047996521
+CLQ;Licenciado Miguel de la Madrid Airport;Colima;Mexico;19.2770004272;-103.577003479
+ISJ;Isla Mujeres Airport;Isla Mujeres;Mexico;21.2450008392334;-86.73999786376953
+SLW;Plan De Guadalupe International Airport;Saltillo;Mexico;25.54949951171875;-100.92900085449219
+LZC;Lázaro Cárdenas Airport;Lazard Cardenas;Mexico;18.0016994476;-102.221000671
+LMM;Valle del Fuerte International Airport;Los Mochis;Mexico;25.6851997375;-109.081001282
+BJX;Del Bajío International Airport;Del Bajio;Mexico;20.993499755900004;-101.481002808
+LAP;Manuel Márquez de León International Airport;La Paz;Mexico;24.072700500499998;-110.361999512
+LTO;Loreto International Airport;Loreto;Mexico;25.989200592041016;-111.3479995727539
+MAM;General Servando Canales International Airport;Matamoros;Mexico;25.7698993683;-97.5252990723
+MID;Licenciado Manuel Crescencio Rejon Int Airport;Merida;Mexico;20.937000274699997;-89.657699585
+MXL;General Rodolfo Sánchez Taboada International Airport;Mexicali;Mexico;32.6305999756;-115.241996765
+MLM;General Francisco J. Mujica International Airport;Morelia;Mexico;19.849899292;-101.025001526
+MTT;Minatitlán/Coatzacoalcos National Airport;Minatitlan;Mexico;18.1033992767;-94.58070373540001
+LOV;Monclova International Airport;Monclova;Mexico;26.955699920654297;-101.47000122070312
+MEX;Licenciado Benito Juarez International Airport;Mexico City;Mexico;19.4363;-99.072098
+MTY;General Mariano Escobedo International Airport;Monterrey;Mexico;25.7784996033;-100.107002258
+MZT;General Rafael Buelna International Airport;Mazatlan;Mexico;23.1613998413;-106.26599884
+NOG;Nogales International Airport;Nogales;Mexico;31.22610092163086;-110.97599792480469
+NLD;Quetzalcóatl International Airport;Nuevo Laredo;Mexico;27.4438991547;-99.5705032349
+OAX;Xoxocotlán International Airport;Oaxaca;Mexico;16.9999008179;-96.726600647
+PAZ;El Tajín National Airport;Poza Rico;Mexico;20.6026992798;-97.46080017090001
+PBC;Hermanos Serdán International Airport;Puebla;Mexico;19.1581001282;-98.3713989258
+PCA;Ingeniero Juan Guillermo Villasana Airport;Pachuca;Mexico;20.07740020751953;-98.78250122070312
+PPE;Puerto Peñasco International Airport;Punta Penasco;Mexico;31.356202;-113.525677
+PDS;Piedras Negras International Airport;Piedras Negras;Mexico;28.627399444580078;-100.53500366210938
+UPN;Licenciado y General Ignacio Lopez Rayon Airport;Uruapan;Mexico;19.396699905395508;-102.03900146484375
+PVR;Licenciado Gustavo Díaz Ordaz International Airport;Puerto Vallarta;Mexico;20.680099487304688;-105.25399780273438
+PXM;Puerto Escondido International Airport;Puerto Escondido;Mexico;15.8768997192;-97.08910369870001
+QRO;Querétaro Intercontinental Airport;Queretaro;Mexico;20.6173000336;-100.185997009
+REX;General Lucio Blanco International Airport;Reynosa;Mexico;26.008899688699998;-98.2285003662
+SJD;Los Cabos International Airport;San Jose Del Cabo;Mexico;23.15180015563965;-109.72100067138672
+SFH;San Felipe International Airport;San Filipe;Mexico;30.930200576782;-114.80899810791
+SLP;Ponciano Arriaga International Airport;San Luis Potosi;Mexico;22.254299163800003;-100.930999756
+TXA;Tlaxcala Airport;Tlaxcala;Mexico;19.537992;-98.173492
+TRC;Francisco Sarabia International Airport;Torreon;Mexico;25.568300247199996;-103.411003113
+TGZ;Angel Albino Corzo International Airport;Tuxtla Gutierrez;Mexico;16.5636005402;-93.02249908450001
+TIJ;General Abelardo L. Rodríguez International Airport;Tijuana;Mexico;32.541099548339844;-116.97000122070312
+TAM;General Francisco Javier Mina International Airport;Tampico;Mexico;22.2964000702;-97.8658981323
+TSL;Tamuin Airport;Tamuin;Mexico;22.0382995605;-98.80650329590001
+TLC;Licenciado Adolfo Lopez Mateos International Airport;Toluca;Mexico;19.3370990753;-99.56600189210002
+TAP;Tapachula International Airport;Tapachula;Mexico;14.7943000793;-92.3700027466
+CUN;Cancún International Airport;Cancun;Mexico;21.036500930800003;-86.8770980835
+VSA;Carlos Rovirosa Pérez International Airport;Villahermosa;Mexico;17.996999740600586;-92.81739807128906
+VER;General Heriberto Jara International Airport;Vera Cruz;Mexico;19.1459007263;-96.1873016357
+ZCL;General Leobardo C. Ruiz International Airport;Zacatecas;Mexico;22.8971004486;-102.68699646
+ZIH;Ixtapa Zihuatanejo International Airport;Zihuatanejo;Mexico;17.601600647;-101.460998535
+ZMM;Zamora Airport;Zamora;Mexico;20.045000076293945;-102.2760009765625
+ZLO;Playa De Oro International Airport;Manzanillo;Mexico;19.144800186199998;-104.558998108
+BEF;Bluefields Airport;Bluefields;Nicaragua;11.991000175476074;-83.77410125732422
+MGA;Augusto C. Sandino (Managua) International Airport;Managua;Nicaragua;12.141500473022461;-86.16819763183594
+PUZ;Puerto Cabezas Airport;Puerto Cabezas;Nicaragua;14.047200202941895;-83.38670349121094
+BOC;Bocas Del Toro International Airport;Bocas Del Toro;Panama;9.340849876403809;-82.25080108642578
+CHX;Cap Manuel Niño International Airport;Changuinola;Panama;9.458640098571777;-82.51679992675781
+DAV;Enrique Malek International Airport;David;Panama;8.390999794006348;-82.43499755859375
+BLB;Panama Pacific International Airport;Howard;Panama;8.91479;-79.599602
+PAC;Marcos A. Gelabert International Airport;Panama;Panama;8.973340034484863;-79.55560302734375
+PTY;Tocumen International Airport;Panama City;Panama;9.0713596344;-79.3834991455
+OTR;Coto 47 Airport;Coto 47;Costa Rica;8.60155963897705;-82.96859741210938
+GLF;Golfito Airport;Golfito;Costa Rica;8.654009819030762;-83.18219757080078
+LIR;Daniel Oduber Quiros International Airport;Liberia;Costa Rica;10.593299865722656;-85.54440307617188
+LIO;Limon International Airport;Limon;Costa Rica;9.95796012878418;-83.02200317382812
+NOB;Nosara Airport;Nosara Beach;Costa Rica;9.976490020750001;-85.65299987790002
+SJO;Juan Santamaria International Airport;San Jose;Costa Rica;9.993860244750977;-84.20880126953125
+PMZ;Palmar Sur Airport;Palmar Sur;Costa Rica;8.951029777526855;-83.46859741210938
+XQP;Quepos Managua Airport;Quepos;Costa Rica;9.443160057067871;-84.12979888916016
+SAL;El Salvador International Airport;San Salvador;El Salvador;13.4409;-89.055702
+CAP;Cap Haitien International Airport;Cap Haitien;Haiti;19.732999801635742;-72.1947021484375
+PAP;Toussaint Louverture International Airport;Port-au-prince;Haiti;18.579999923706055;-72.2925033569336
+BCA;Gustavo Rizo Airport;Baracoa Playa;Cuba;20.365299224853516;-74.5062026977539
+BYM;Carlos Manuel de Cespedes Airport;Bayamo;Cuba;20.396400451660156;-76.62139892578125
+AVI;Maximo Gomez Airport;Ciego De Avila;Cuba;22.027099609375;-78.78959655761719
+CCC;Jardines Del Rey Airport;Cunagua;Cuba;22.461000442499998;-78.32839965820001
+CFG;Jaime Gonzalez Airport;Cienfuegos;Cuba;22.149999618530273;-80.41419982910156
+CYO;Vilo Acuña International Airport;Cayo Largo del Sur;Cuba;21.6165008545;-81.5459976196
+CMW;Ignacio Agramonte International Airport;Camaguey;Cuba;21.420299530029297;-77.84750366210938
+SCU;Antonio Maceo International Airport;Santiago De Cuba;Cuba;19.96980094909668;-75.83540344238281
+GAO;Mariana Grajales Airport;Guantanamo;Cuba;20.08530044555664;-75.1583023071289
+HAV;José Martí International Airport;Havana;Cuba;22.989200592041016;-82.40910339355469
+HOG;Frank Pais International Airport;Holguin;Cuba;20.785600662231445;-76.31510162353516
+LCL;La Coloma Airport;La Coloma;Cuba;22.33609962463379;-83.64189910888672
+MOA;Orestes Acosta Airport;Moa;Cuba;20.653900146484375;-74.92220306396484
+MZO;Sierra Maestra Airport;Manzanillo;Cuba;20.28809928894043;-77.08920288085938
+GER;Rafael Cabrera Airport;Nueva Gerona;Cuba;21.834699630737305;-82.78379821777344
+UPB;Playa Baracoa Airport;Baracoa Playa;Cuba;23.032800674399997;-82.5793991089
+SNU;Abel Santamaria Airport;Santa Clara;Cuba;22.49220085144043;-79.943603515625
+VRA;Juan Gualberto Gomez International Airport;Varadero;Cuba;23.034400939941406;-81.435302734375
+VTU;Hermanos Ameijeiras Airport;Las Tunas;Cuba;20.987600326538086;-76.93579864501953
+CYB;Gerrard Smith International Airport;Cayman Brac;Cayman Islands;19.687000274658203;-79.88279724121094
+GCM;Owen Roberts International Airport;Georgetown;Cayman Islands;19.292800903299998;-81.3576965332
+ASD;Andros Town Airport;Andros Town;Bahamas;24.697900772094727;-77.79560089111328
+MHH;Marsh Harbour International Airport;Marsh Harbor;Bahamas;26.511400222800003;-77.08350372310001
+SAQ;San Andros Airport;San Andros;Bahamas;25.053800582885742;-78.04900360107422
+AXP;Spring Point Airport;Spring Point;Bahamas;22.441799163800003;-73.97090148930002
+TCB;Treasure Cay Airport;Treasure Cay;Bahamas;26.745300293;-77.3912963867
