@@ -1,10 +1,9 @@
-// Implementing a graph data structure in Java.
-// Formally,a graph is an object consisting of a vertex set and an edge set. We denote it G(V, E). 
-// This is an undirected, simple graph. 
-// In this graph, we have edges that relate two vertices. 
-// There is at most one edge per pair of vertices. So the edge set is: E = { (i, j) : i, j \in V, i != j }.
 package Graph_Edge_Vertex;
 
+// Formally,a graph is an object consisting of a vertex set and an edge set. 
+// This is an undirected, simple graph. 
+// In this graph, we have edges that relate to two vertices. 
+// There is at most one edge per pair of vertices. 
 
 public class GraphImplementation 
 {
