@@ -38,7 +38,7 @@ public class SimpleRootedTree<D, W> implements RootedTree<D, W> {
     public void addEdge(W weight, Vertex<D, W> tail, Vertex<D, W> head, boolean undirected) {
         // TODO
       
-//        Vertex v, w;
+//      Vertex v, w;
 //        if (hasEdge(head, tail)) {
 //            return;  // no duplicate edges
 //        }
