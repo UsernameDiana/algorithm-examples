@@ -6,7 +6,7 @@ import java.util.Collection;
 // A graph is a set of vertices and a collection of edges that each connect a pair of vertices.
 // GRAPH = VERTEX, EDGE
 // G=(V,E)
-public interface Graph<D, W> {
+public interface IGraph<D, W> {
 
     void addVertex(D... data);
 

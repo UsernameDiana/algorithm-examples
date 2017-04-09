@@ -1,14 +1,14 @@
 package testGraphs;
 
-import graphs.Graph;
 import graphs.SearchGraphs;
 import graphs.MatrixGraph;
 import graphs.RootedTree;
+import graphs.IGraph;
 
 public class TestProgram {
 
     public static void main(String[] args) {
-        Graph<String, Integer> friends = new MatrixGraph<>(
+        IGraph<String, Integer> friends = new MatrixGraph<>(
                 "Jonnas",
                 "Lily",
                 "Carol",

@@ -2,7 +2,6 @@ package testGraphs;
 
 //import static co.unruly.matchers.StreamMatchers.allMatch;
 //import static org.hamcrest.CoreMatchers.anyOf;
-import graphs.Graph;
 import graphs.MatrixGraph;
 import java.util.stream.Collectors;
 import static org.hamcrest.CoreMatchers.is;
@@ -11,10 +10,11 @@ import static org.hamcrest.collection.IsIterableContainingInAnyOrder.*;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import org.junit.Before;
+import graphs.IGraph;
 
 public class FriendGraphTest {
 
-    private Graph<String, Integer> friends;
+    private IGraph<String, Integer> friends;
 
     @Before
     public void setup() {
@@ -58,7 +58,7 @@ public class FriendGraphTest {
 
     @Test
     public void testAdamsFriends() {
-        Graph.Vertex<String, Integer> adam = friends.vertexOf("Adam");
+        IGraph.Vertex<String, Integer> adam = friends.vertexOf("Adam");
         assertThat(adam.getAdjacentEdges().size(), is(3));
 //    assertThat(
 //        adam.getAdjacentEdges().stream()
@@ -74,9 +74,9 @@ public class FriendGraphTest {
 //    assertThat(
 //        adam.getAdjacentEdges(),
 //        containsInAnyOrder(
-//            where((Graph.Edge<String,Integer> e) -> e.getHeadVertex().getData().equals("Jonnas")),
-//            where((Graph.Edge<String,Integer> e) -> e.getHeadVertex().getData().equals("Carol")),
-//            where((Graph.Edge<String,Integer> e) -> e.getHeadVertex().getData().equals("Phillip"))
+//            where((IGraph.Edge<String,Integer> e) -> e.getHeadVertex().getData().equals("Jonnas")),
+//            where((IGraph.Edge<String,Integer> e) -> e.getHeadVertex().getData().equals("Carol")),
+//            where((IGraph.Edge<String,Integer> e) -> e.getHeadVertex().getData().equals("Phillip"))
 //            )
 //        );
     }

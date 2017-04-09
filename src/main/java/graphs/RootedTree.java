@@ -1,6 +1,6 @@
 package graphs;
 
-public interface RootedTree<D, W> extends Graph<D, W> {
+public interface RootedTree<D, W> extends IGraph<D, W> {
 
     Vertex<D, W> getRoot();
 

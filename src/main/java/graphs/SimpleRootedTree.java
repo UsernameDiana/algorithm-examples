@@ -8,11 +8,11 @@ import java.util.stream.Collectors;
 
 public class SimpleRootedTree<D, W> implements RootedTree<D, W> {
 
-    private final Graph<D, W> graph;
+    private final IGraph<D, W> graph;
     private final Vertex<D, W> root;
     private final Set<Edge<D, W>> edges = new HashSet<>();
 
-    public SimpleRootedTree(Graph<D, W> graph, Vertex<D, W> root) {
+    public SimpleRootedTree(IGraph<D, W> graph, Vertex<D, W> root) {
         this.graph = graph;
         this.root = root;
     }
@@ -37,7 +37,8 @@ public class SimpleRootedTree<D, W> implements RootedTree<D, W> {
     @Override
     public void addEdge(W weight, Vertex<D, W> tail, Vertex<D, W> head, boolean undirected) {
         // TODO
-        Vertex v, w;
+      
+//        Vertex v, w;
 //        if (hasEdge(head, tail)) {
 //            return;  // no duplicate edges
 //        }
@@ -69,7 +70,7 @@ public class SimpleRootedTree<D, W> implements RootedTree<D, W> {
 
     public Collection<Edge<D, W>> getEdgesFrom(Vertex<D, W> vertex) {
         // This piece of code simply filters away edges
-        // that is not in the edges set.
+        // that are not in the edges set.
         // Unfortunately Java has to convert to stream, and back to set.
         return graph.getEdges().stream()
                 .filter(e -> edges.contains(e))

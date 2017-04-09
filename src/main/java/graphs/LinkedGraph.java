@@ -4,7 +4,7 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LinkedGraph<D, W> implements Graph<D, W> {
+public class LinkedGraph<D, W> implements IGraph<D, W> {
 
     private int myVertices;
     private int myEdges;

@@ -4,7 +4,7 @@ import java.io.PrintStream;
 import java.util.Collection;
 import java.util.HashSet;
 
-public class MatrixGraph<D, W> implements Graph<D, W> {
+public class MatrixGraph<D, W> implements IGraph<D, W> {
 
     private W[][] weights = (W[][]) new Object[0][0];
     private D[] data = (D[]) new Object[0];
