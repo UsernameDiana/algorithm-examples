@@ -1,28 +1,42 @@
 package graphs;
 
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class LinkedGraph<D, W> implements IGraph<D, W> {
 
+    List<LinkedVertex> vertices;
+    List<LinkedEdge> edges;
     private int myVertices;
     private int myEdges;
     private Map vertexMap = new HashMap();
+    int size;
 
-    public LinkedGraph(int myVertices, int myEdges) {
+    public LinkedGraph(List<LinkedVertex> vertices, List<LinkedEdge> edges, int myVertices, int myEdges, int size) {
+        this.vertices = vertices;
+        this.edges = edges;
         this.myVertices = myVertices;
         this.myEdges = myEdges;
+        this.size = size;
     }
+
 
     @Override
     public void addVertex(D... data) {
-     Vertex v;
+        for (D d : data) {
+            //Vertex v = new LinkedVertex(d);
+            // I am not sure how to finish this
+            size++;
+        }
     }
 
     @Override
     public void addEdge(W weight, Vertex<D, W> tail, Vertex<D, W> head, boolean directed) {
-
+        
+        // TODO
     }
 
     @Override
@@ -37,16 +51,26 @@ public class LinkedGraph<D, W> implements IGraph<D, W> {
 
     @Override
     public Collection<Vertex<D, W>> getVertices() {
-        return null;
+        List<Vertex<D, W>> v = new ArrayList();
+
+        // TODO
+        return v;
     }
 
     @Override
     public Collection<Edge<D, W>> getEdges() {
-        return null;
+        List<Edge<D, W>> e = new ArrayList();
+
+        // TODO
+        return e;
     }
 
     public Collection<Edge<D, W>> getEdgesFrom(Vertex<D, W> vertex) {
-        return null;
+        Collection<Edge<D, W>> adjacentEdges = null; // setting the near edges to null
+        if (vertex.getClass() == LinkedVertex.class) { // if vertex eaquals LinkedVertex
+            adjacentEdges = ((LinkedVertex) vertex).getAdjacentEdges(); // then near by edges eaquals method .getAdjacentEdges() from LinkedVertex class
+        }
+        return adjacentEdges;
     }
 
 }
